@@ -1,0 +1,35 @@
+{
+    "DateLastVerified": "2024-12-16T11:24:00Z",
+    "ID": 257048,
+    "UUID": "92A2A2C3-42AB-4BA2-8BE2-51D24A7A6F49",
+    "DataProviderID": 1,
+    "OperatorID": 3817,
+    "UsageTypeID": 5,
+    "UsageCost": "£0.79/kWh; other tariffs available",
+    "AddressInfo": {
+        "ID": 257432,
+        "Title": "Agora Mall Charging Station",
+        "AddressLine1": "Nr Tapovan Circle, SP Ring Road",
+        "Town": "Gandhinagar",
+        "StateOrProvince": "Gujarat",
+        "Postcode": "382424",
+        "CountryID": 106,
+        "Latitude": 23.0675460902371,
+        "Longitude": 72.6648092874053,
+        "RelatedURL": "https://www.jiobp.com/products-and-services/EV-charging",
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 428975,
+            "ConnectionTypeID": 33,
+            "CurrentTypeID": 30,
+            "Quantity": 2
+        }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2024-12-16T11:24:00Z",
+    "DateCreated": "2023-03-17T05:35:00Z",
+    "SubmissionStatusTypeID": 200
+}

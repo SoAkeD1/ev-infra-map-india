@@ -1,0 +1,32 @@
+{
+    "DateLastVerified": "2023-03-26T11:52:00Z",
+    "ID": 149534,
+    "UUID": "07891543-1600-4BD9-9907-6EB856D37758",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 6,
+    "AddressInfo": {
+        "ID": 149887,
+        "Title": "Fortum Mahindra",
+        "AddressLine1": "Chikoti Gardens, Old Patigadda, Chikoti Gardens, Begumpet, Hyderabad, Telangana 500016, India",
+        "Town": "Hyderabad",
+        "StateOrProvince": "Telangana",
+        "Postcode": "500016",
+        "CountryID": 106,
+        "Latitude": 17.44366,
+        "Longitude": 78.46395,
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 207612,
+            "ConnectionTypeID": 0,
+            "StatusTypeID": 50
+        }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-03-26T11:52:00Z",
+    "DateCreated": "2020-02-27T16:28:00Z",
+    "SubmissionStatusTypeID": 200
+}

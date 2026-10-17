@@ -1,0 +1,58 @@
+{
+    "MediaItems": [
+        {
+            "ID": 38256,
+            "ChargePointID": 266916,
+            "ItemURL": "https://media.openchargemap.io/images/IN/OCM266916/OCM-266916.orig.2023062105574996.jpg",
+            "ItemThumbnailURL": "https://media.openchargemap.io/images/IN/OCM266916/OCM-266916.thmb.2023062105574996.jpg",
+            "Comment": "",
+            "IsEnabled": true,
+            "IsVideo": false,
+            "IsFeaturedItem": false,
+            "IsExternalResource": false,
+            "User": {
+                "ID": 46967,
+                "Username": "HARAN"
+            },
+            "DateCreated": "2023-06-21T05:58:00Z"
+        }
+    ],
+    "DateLastVerified": "2025-06-13T10:35:00Z",
+    "ID": 266916,
+    "UUID": "44631668-BBBB-4AF6-B517-34D1372CA5AF",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 4,
+    "UsageCost": "27.41/kWh",
+    "AddressInfo": {
+        "ID": 267300,
+        "Title": "Viyyur KSEB",
+        "AddressLine1": "Opposite Central Jail",
+        "AddressLine2": "Viyyur",
+        "Town": "Thrissur",
+        "StateOrProvince": "Kerala",
+        "Postcode": "680010",
+        "CountryID": 106,
+        "Latitude": 10.559346433034207,
+        "Longitude": 76.2173581272001,
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 454598,
+            "ConnectionTypeID": 33,
+            "StatusTypeID": 50,
+            "LevelID": 3,
+            "PowerKW": 30,
+            "CurrentTypeID": 30,
+            "Quantity": 1,
+            "Comments": "Use KeMapp to charge"
+        }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "Variable rate based on time of the day",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-06-13T10:35:00Z",
+    "DateCreated": "2023-06-18T17:36:00Z",
+    "SubmissionStatusTypeID": 200
+}

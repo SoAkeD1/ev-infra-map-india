@@ -1,0 +1,12 @@
+# environments / build
+.venv/
+node_modules/
+__pycache__/
+.ipynb_checkpoints/
+ev-infra-map/report/preview/
+ev-infra-map/report/package-lock.json
+# duplicates of root files
+*.zip
+ev-infra-map/report/Final_Round1_Submission.*
+ev-infra-map/report/toc_pages.json
+ev-infra-map/outputs/tables/_findings_numbers.json

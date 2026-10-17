@@ -1,0 +1,15 @@
+pandas
+geopandas
+pyogrio
+shapely
+h3>=4
+requests
+matplotlib
+statsmodels
+openpyxl
+jupyter
+nbformat
+nbconvert
+ipykernel
+rasterio
+scipy

@@ -1,0 +1,645 @@
+state,district,source,source_ids,name,operator,lat,lon,n_points,max_kw,kw_class,is_kw_imputed,is_points_imputed,access,created
+Karnataka,Bengaluru Urban,OCM,OCM-103606,Ather Grid Point - Moto Store & Cafe,(Unknown Operator),12.9875541362772,77.6208706943579,1.0,3.0,light,False,False,Public,2018-05-04T08:14:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103607,Ather Grid Point - Fab Cafe,(Unknown Operator),12.9339420487577,77.517451890213,1.0,3.0,light,False,False,Public,2018-05-04T08:28:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103609,Ather Grid Point - Caf Eleven,(Unknown Operator),12.9233342441394,77.5548753083467,1.0,3.0,light,False,False,Public,2018-05-04T08:35:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103610,Ather Grid Point - Royal Airawat Residency,(Unknown Operator),12.9222872,77.4954903,1.0,3.0,light,False,False,Public,2018-05-04T08:37:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103611,Ather Grid Point - Chapter One,(Unknown Operator),13.0323019,77.5697127,1.0,3.0,light,False,False,Public,2018-05-04T08:38:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103612,Ather Grid Point - Patel's Inn,(Unknown Operator),13.0212463,77.5980284,1.0,3.0,light,False,False,Public,2018-05-04T08:39:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103613,Ather Grid Point - Sunny Side Bistro,(Unknown Operator),13.0018168,77.6235465,1.0,3.0,light,False,False,Public,2018-05-04T08:41:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103614,Ather Grid Point - 6000 Miles to Isle of Man,(Unknown Operator),12.9756828,77.5982326000001,1.0,3.0,light,False,False,Public,2018-05-04T08:42:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103615,Ather Grid Point - Herbs and Spices,(Unknown Operator),12.9679246469975,77.7497762255596,1.0,3.0,light,False,False,Public,2018-05-04T08:44:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103746,BESCOM Head Office,(Business Owner at Location),12.9755314120859,77.5883364581665,1.0,3.6,light,False,False,Public,2018-05-06T14:17:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-107668,AtherGrid Go Native Cafe,,12.9224636436796,77.5846883396955,1.0,2.0,light,False,False,Public,2018-08-06T09:52:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-173082,Tata Fast Charger,Tata Power,12.952438850806772,77.63973152758626,2.0,22.0,light,False,False,Public - Membership Required,2021-03-03T06:46:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-188200,Hosa Road,(Unknown Operator),12.911521506082025,77.67629825827191,1.0,3.3,light,False,False,Public - Membership Required,2021-07-14T04:38:00Z
+Karnataka,Kodagu,OCM,OCM-273116,Urs Kar,Zeon Charging,12.17768,75.90516,1.0,24.0,light,False,False,Public,2023-07-25T17:12:00Z
+Karnataka,Mysuru,OCM,OCM-297621,Kannada Parisath Road,(Unknown Operator),12.336275917196616,76.61874659765198,1.0,100.0,DC,False,False,Public - Membership Required,2024-04-17T15:07:00Z
+Karnataka,Haveri,OCM,OCM-297629,Jio BP Kamadod,(Unknown Operator),14.57297,75.69027,1.0,60.0,DC,False,False,Public,2024-04-17T17:14:00Z
+Karnataka,Dharwad,OCM,OCM-297630,Ganesh Hotel,Zeon Charging,15.16839,75.14055,1.0,50.0,DC,False,False,Public,2024-04-17T17:18:00Z
+Karnataka,Mysuru,OCM,OCM-297660,"#1043, 11th cross",(Unknown Operator),12.335348865021999,76.62012790912104,1.0,11.0,light,False,False,Public - Membership Required,2024-04-18T06:25:00Z
+Karnataka,Hassan,OCM,OCM-301965,Shanthigrama Toll plaza,Relux Electric (India),12.9821235,76.2293388,1.0,40.0,DC,False,False,Public - Pay At Location,2024-07-27T10:10:00Z
+Karnataka,Shivamogga,OCM,OCM-301966,Harsha the Fernn,Relux Electric (India),13.94855091,75.53166578,1.0,60.0,DC,False,False,Public - Pay At Location,2024-07-27T10:39:00Z
+Karnataka,Hassan,OCM,OCM-308643,Hotel Sky Birds,Zeon Charging,12.986921625224198,76.20598917155826,8.0,200.0,DC,False,False,Public,2025-02-06T04:31:00Z
+Karnataka,Hassan,OCM,OCM-308644,Hotel Samrat Grand,Zeon Charging,12.92895876513468,75.76483175276223,1.0,24.0,light,False,False,Public,2025-02-06T04:39:00Z
+Karnataka,Hassan,OCM,OCM-308645,Hotel Shiv Surya,Statiq (IN),12.956363120603813,75.91730927494099,1.0,120.0,DC,False,False,Public,2025-02-06T04:47:00Z
+Karnataka,Hassan,OCM,OCM-308646,Surabhi's Delicacy,Tata Power,12.956011770294046,75.85031771427055,1.0,25.0,light,False,False,Public,2025-02-06T04:51:00Z
+Karnataka,Hassan,OCM,OCM-308647,"Auto Matrix, Tata Motors",Tata Power,12.995358325658975,76.07977485619126,1.0,30.0,DC,False,False,Public - Membership Required,2025-02-06T07:12:00Z
+Karnataka,Mandya,OCM,OCM-308648,Cafe Coffee Day,Statiq (IN),12.962379884986415,76.74911922512898,1.0,50.0,DC,False,False,Public,2025-02-06T07:27:00Z
+Karnataka,Mandya,OCM,OCM-308649,Hotel Harsha Grand,Statiq (IN),12.966355400528546,76.78837257783798,6.0,60.0,DC,False,False,Public,2025-02-06T07:43:00Z
+Karnataka,Mandya,OCM,OCM-308650,Mtr 1924,Chargezone (India),12.970104275015245,76.80168579999895,1.0,150.0,DC,False,False,Public,2025-02-06T07:51:00Z
+Karnataka,Mandya,OCM,OCM-308655,Hotel Vaishali,Tata Power,12.976021474368096,76.82832026830147,1.0,25.0,light,False,False,Public,2025-02-06T14:01:00Z
+Karnataka,Tumakuru,OCM,OCM-308656,Dharnika Comforts Bar & Family Restaurant ,Statiq (IN),12.987620883287613,76.873329144128,1.0,60.0,DC,False,False,Public,2025-02-06T14:07:00Z
+Karnataka,Tumakuru,OCM,OCM-308657,Hotel Mayur Veg,Zeon Charging,12.98803757488833,76.87464619838323,1.0,24.0,light,False,False,Public,2025-02-06T14:11:00Z
+Karnataka,Tumakuru,OCM,OCM-308658,Paakashala @ Yediyur,Zeon Charging,12.990239909344549,76.88182264788712,1.0,60.0,DC,False,False,Public,2025-02-06T14:17:00Z
+Karnataka,Tumakuru,OCM,OCM-308659,Hotel Empire Kunigal,Statiq (IN),12.997770548337403,76.92416917632683,1.0,120.0,DC,False,False,Public,2025-02-06T14:21:00Z
+Karnataka,Bengaluru South,OCM,OCM-308660,Hana Impireal 75 Restaurant,Chargezone (India),13.033112569385736,77.08714465130379,1.0,30.0,DC,False,False,Public,2025-02-06T14:26:00Z
+Karnataka,Bengaluru North,OCM,OCM-308661,Jio BP Nelamangala,JIO BP Pulse (India),13.086525423479687,77.4084730159021,1.0,60.0,DC,False,False,Public,2025-02-06T14:43:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308662,Shell Recharge Tumkur Road,Shell Recharge (IN),13.046725564235746,77.50216038004966,1.0,120.0,DC,False,False,Public,2025-02-06T14:47:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308663,MEI EV charging hub,Statiq (IN),13.026816255694186,77.54261284631212,1.0,30.0,DC,False,False,Public,2025-02-06T14:56:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308678,Akshaya Motors Mercedes-Benz,Chargezone (India),12.923963230811792,77.49720824597415,1.0,90.0,DC,False,False,Public,2025-02-07T16:42:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308679,Kengeri Charging Hub,Zeon Charging,12.9055171580421,77.47375007379192,4.0,75.0,DC,False,False,Public,2025-02-07T16:46:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-308708,Hotel Aditya View,Zeon Charging,12.931223185124566,75.40710480328991,1.0,24.0,light,False,False,Public,2025-02-09T13:17:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-308711,Hotel Birwa Nelyadi,Tata Power,12.833853664571109,75.41335464288888,1.0,60.0,DC,False,False,Public,2025-02-09T13:26:00Z
+Karnataka,Udupi,OCM,OCM-308713,Ayodhya pure veg,ChargeMod (IN),13.194584393803014,74.99894608465658,1.0,30.0,DC,False,False,Public,2025-02-09T13:34:00Z
+Karnataka,Udupi,OCM,OCM-308714,Hotel K1,JIO BP Pulse (India),13.225673750593353,74.74862369692522,1.0,60.0,DC,False,False,Public,2025-02-09T13:38:00Z
+Karnataka,Udupi,OCM,OCM-308715,Manipal INN,Zeon Charging,13.350363225074076,74.73695857255427,1.0,60.0,DC,False,False,Public,2025-02-09T13:44:00Z
+Karnataka,Udupi,OCM,OCM-308716,Shrreyas Inn Hemmadi,JIO BP Pulse (India),13.632720837253624,74.70046050035235,1.0,60.0,DC,False,False,Public,2025-02-09T13:49:00Z
+Karnataka,Uttara Kannada,OCM,OCM-308719,Hotel Sagar Residency,JIO BP Pulse (India),14.2900734432765,74.46279472020032,1.0,60.0,DC,False,False,Public,2025-02-09T13:54:00Z
+Karnataka,Mysuru,OCM,OCM-308722,Hotel Elite,Statiq (IN),12.3459,76.43309,1.0,60.0,DC,False,False,Public,2025-02-09T14:07:00Z
+Karnataka,Hassan,OCM,OCM-308729,Grower's Cafe,Tata Power,13.10898,75.74099,1.0,30.0,DC,False,False,Public,2025-02-09T14:41:00Z
+Karnataka,Chikkamagaluru,OCM,OCM-308730,Gateway by Taj,Tata Power,13.33696,75.81749,1.0,25.0,light,False,False,Public,2025-02-09T14:48:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308731,Shell Recharge Mysore Road,Shell Recharge (IN),12.94696,77.53247,5.0,120.0,DC,False,False,Public,2025-02-09T15:03:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308732,Jio BP Pulse,JIO BP Pulse (India),12.98931,77.50062,2.0,60.0,DC,False,False,Public,2025-02-09T15:10:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308733,VST Central KIA,Tata Power,13.05335,77.50798,1.0,150.0,DC,False,False,Public,2025-02-09T15:14:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308734,Shell Recharge Yeshwantpur,Shell Recharge (IN),13.02499,77.54759,5.0,120.0,DC,False,False,Public,2025-02-09T15:22:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308757,Renaissance Bengaluru Race Course Hotel,Chargezone (India),12.98439,77.57639,1.0,60.0,DC,False,False,Public,2025-02-11T16:52:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308758,KEVAL Charging Station,Chargezone (India),13.0001,77.52435,2.0,25.0,light,False,False,Public,2025-02-11T17:00:00Z
+Karnataka,Bengaluru South,OCM,OCM-308759,SM Infra Foods,Zeon Charging,12.64316,77.15675,1.0,60.0,DC,False,False,Public,2025-02-11T17:09:00Z
+Karnataka,Bengaluru South,OCM,OCM-308761,Hotel Indradhanush,Statiq (IN),12.6396,77.14106,1.0,60.0,DC,False,False,Public,2025-02-11T17:15:00Z
+Karnataka,Bengaluru South,OCM,OCM-308762,Siri Restaurant,Chargezone (India),12.639274,77.139907,2.0,60.0,DC,False,False,Public,2025-02-11T17:18:00Z
+Karnataka,Mandya,OCM,OCM-308763,Udupi Utsav,Tata Power,12.50535,76.83215,1.0,60.0,DC,False,False,Public,2025-02-11T17:21:00Z
+Karnataka,Mysuru,OCM,OCM-308773,Hotel Four Seasons,Statiq (IN),12.38309,76.03155,2.0,60.0,DC,False,False,Public,2025-02-12T14:07:00Z
+Karnataka,Mysuru,OCM,OCM-308774,Siri Ambari Resorts and Spa,Statiq (IN),12.40038,76.01705,2.0,60.0,DC,False,False,Public,2025-02-12T14:10:00Z
+Karnataka,Kodagu,OCM,OCM-308775,Purple Palms Resort & Spa,Zeon Charging,12.44734,75.93211,1.0,24.0,light,False,False,Public,2025-02-12T14:15:00Z
+Karnataka,Kodagu,OCM,OCM-308776,Tata Motors - URS KAR,Zeon Charging,12.44616,75.93032,2.0,60.0,DC,False,False,Public,2025-02-12T14:19:00Z
+Karnataka,Kodagu,OCM,OCM-308777,Church Side Bar & Restuarant,Tata Power,12.41887,75.74048,2.0,25.0,light,False,False,Public,2025-02-12T14:22:00Z
+Karnataka,Kodagu,OCM,OCM-308778,Taj Madikeri Resort & Spa,Tata Power,12.44606,75.68499,1.0,30.0,DC,False,False,Public,2025-02-12T14:34:00Z
+Karnataka,Kodagu,OCM,OCM-308779,Kodagu Planter's Club,JIO BP Pulse (India),12.18078,75.91345,2.0,60.0,DC,False,False,Public,2025-02-12T14:38:00Z
+Karnataka,Kodagu,OCM,OCM-308780,Ambatty Greens Resort,Tata Power,12.18228,75.828,2.0,25.0,light,False,False,Public,2025-02-12T14:44:00Z
+Karnataka,Kodagu,OCM,OCM-308781,The Rove Kodagu,JIO BP Pulse (India),12.30143,75.67671,1.0,60.0,DC,False,False,Public,2025-02-12T14:47:00Z
+Karnataka,Mandya,OCM,OCM-308782,Saviruchi Veg,Statiq (IN),12.38494,77.05314,1.0,30.0,DC,False,False,Public,2025-02-12T14:51:00Z
+Karnataka,Bengaluru North,OCM,OCM-308783,Paakashala @ TBegur,Zeon Charging,13.15172,77.33795,3.0,200.0,DC,False,False,Public,2025-02-12T15:15:00Z
+Karnataka,Tumakuru,OCM,OCM-308790,KTC Hotel,Zeon Charging,13.31672,76.68119,1.0,60.0,DC,False,False,Public,2025-02-13T15:54:00Z
+Karnataka,Tumakuru,OCM,OCM-308791,"Sree Auto, Tiptur",Tata Power,13.26252,76.49317,1.0,30.0,DC,False,False,Public,2025-02-13T15:57:00Z
+Karnataka,Chikkamagaluru,OCM,OCM-308792,SS CoCo Nest Luxury Service Apartments,Zeon Charging,13.31559,75.79555,2.0,7.4,light,False,False,Public,2025-02-13T16:00:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308795,IKEA Bengaluru,Zeon Charging,13.04917,77.49967,3.0,7.2,light,False,False,Public - Membership Required,2025-02-13T16:05:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308798,Taj Yeshwantpur,Tata Power,13.028822486015997,77.54032150168894,2.0,30.0,DC,False,False,Public,2025-02-13T16:20:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308799,"Prerana Motors, Rajaji Nagar",Tata Power,12.99935,77.54971,1.0,25.0,light,False,False,Public,2025-02-13T16:24:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308800,Orion Mall Outside,Zeon Charging,13.009553121997012,77.55461112998876,4.0,30.0,DC,False,False,Public,2025-02-13T16:28:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308801,Orion Brigade Gateway,JIO BP Pulse (India),13.01105,77.55471,2.0,60.0,DC,False,False,Public,2025-02-13T16:31:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308802,Sheraton Grand Bangalore Hotel at Brigade Gateway,Chargezone (India),13.01275,77.55504,1.0,30.0,DC,False,False,Public,2025-02-13T16:37:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308803,GT World Mall,Zeon Charging,12.97396,77.55157,1.0,22.0,light,False,False,Public,2025-02-13T16:42:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308804,The Rialto Hotel,Zeon Charging,12.98026,77.57661,1.0,7.0,light,False,False,Public,2025-02-13T16:45:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308805,Radisson Bengaluru City Center,Zeon Charging,12.97622,77.61948,1.0,22.0,light,False,False,Public,2025-02-13T16:47:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308806,RMZ MILLENIA,Zeon Charging,12.98247,77.62461,1.0,24.0,light,False,False,Public,2025-02-13T16:49:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308807,RMZ Infinity,Zeon Charging,12.99365,77.66045,1.0,60.0,DC,False,False,Public,2025-02-13T16:51:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308808,Grand Mercure Bengaluru,Zeon Charging,12.99267,77.66117,1.0,22.0,light,False,False,Public,2025-02-13T16:53:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308809,Nexus Mall Koramangala,Zeon Charging,12.93484,77.6118,1.0,24.0,light,False,False,Public,2025-02-13T16:55:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308810,Kabra Excelsior,Zeon Charging,12.92786,77.63306,1.0,50.0,DC,False,False,Public,2025-02-13T16:58:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308811,Novotel Bengaluru Outer Ring Road,Zeon Charging,12.9299,77.68317,1.0,22.0,light,False,False,Public,2025-02-13T17:00:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308812,RMZ EcoWorld,Zeon Charging,12.92542,77.68788,1.0,50.0,DC,False,False,Public,2025-02-13T17:01:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308813,Metropolis Gurukrupa Apartment,Zeon Charging,12.87479,77.64694,1.0,7.4,light,False,False,Public,2025-02-13T17:03:00Z
+Karnataka,Mysuru,OCM,OCM-308814,Mall Of Mysore,Zeon Charging,12.2977,76.66446,1.0,60.0,DC,False,False,Public,2025-02-13T17:06:00Z
+Karnataka,Mysuru,OCM,OCM-308815,Grand Mercure Mysore,Zeon Charging,12.3307,76.64479,2.0,120.0,DC,False,False,Public,2025-02-13T17:08:00Z
+Karnataka,Mysuru,OCM,OCM-308816,Ibis Styles Mysuru,Zeon Charging,12.35753,76.62834,1.0,60.0,DC,False,False,Public,2025-02-13T17:09:00Z
+Karnataka,Mysuru,OCM,OCM-308817,"Urs Kar Service Centre Pvt Ltd, Hebbal",Zeon Charging,12.35354,76.61858,1.0,30.0,DC,False,False,Public,2025-02-13T17:11:00Z
+Karnataka,Mysuru,OCM,OCM-308818,"Urs Cars, Hinkal",Zeon Charging,12.32742,76.60886,1.0,60.0,DC,False,False,Public,2025-02-13T17:13:00Z
+Karnataka,Mysuru,OCM,OCM-308819,Poojari’s Nirantara,Zeon Charging,12.14124,76.50854,1.0,30.0,DC,False,False,Public,2025-02-13T17:15:00Z
+Karnataka,Bengaluru South,OCM,OCM-308837,Wonderla Bengaluru,Statiq (IN),12.838006,77.402104,4.0,60.0,DC,False,False,Public,2025-02-14T17:33:00Z
+Karnataka,Udupi,OCM,OCM-308859,Kaustubha Residency,Renoch (IN),13.29373,74.74513,1.0,30.0,DC,False,False,Public - Membership Required,2025-02-15T17:14:00Z
+Karnataka,Udupi,OCM,OCM-308860,Malpe Fish Trade Center,Renoch (IN),13.35205,74.70382,1.0,60.0,DC,False,False,Public,2025-02-15T17:17:00Z
+Karnataka,Udupi,OCM,OCM-308861,Paradise Isle Beach Resort,Rebolt (IN),13.36063,74.69908,1.0,7.0,light,False,False,Public,2025-02-15T17:20:00Z
+Karnataka,Udupi,OCM,OCM-308862,Hotel Sharadha International,Renoch (IN),13.34939,74.73729,1.0,30.0,DC,False,False,Public,2025-02-15T17:24:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-308872,Mulki Sunder Ram Shetty Convention Centre,Zeon Charging,13.06385,74.79791,1.0,60.0,DC,False,False,Public,2025-02-16T16:41:00Z
+Karnataka,Chamarajanagar,OCM,OCM-308873,Shepra Farms,Zeon Charging,12.13427,77.07437,1.0,60.0,DC,False,False,Public,2025-02-16T16:47:00Z
+Karnataka,Tumakuru,OCM,OCM-308874,Hotel Nanjundeshwara,Zeon Charging,13.28586,77.18248,1.0,24.0,light,False,False,Public,2025-02-16T16:51:00Z
+Karnataka,Chikkaballapura,OCM,OCM-308875,Samara's Veg,Zeon Charging,13.79204,77.76632,2.0,240.0,DC,False,False,Public,2025-02-16T16:54:00Z
+Karnataka,Tumakuru,OCM,OCM-308876,Paakashala Sira,Zeon Charging,13.75492,76.88246,10.0,160.0,DC,False,False,Public,2025-02-16T16:59:00Z
+Karnataka,Chitradurga,OCM,OCM-308877,Hotel Guruprasad Veg,Zeon Charging,14.17052,76.47221,1.0,120.0,DC,False,False,Public,2025-02-16T17:01:00Z
+Karnataka,Kolar,OCM,OCM-308878,"Aaradhya Grand ""Mulbagal Dosa""",Zeon Charging,13.13522,78.18786,1.0,60.0,DC,False,False,Public,2025-02-16T17:11:00Z
+Karnataka,Kolar,OCM,OCM-308879,Highway Star Mall,Zeon Charging,13.13885,78.20935,2.0,120.0,DC,False,False,Public,2025-02-16T17:15:00Z
+Karnataka,Mysuru,OCM,OCM-308881,Shell Recharge Hinkal,Shell Recharge (IN),12.3279,76.60826,1.0,120.0,DC,False,False,Public,2025-02-16T17:32:00Z
+Karnataka,Mysuru,OCM,OCM-308882,Shell Recharge Mandakalli,Shell Recharge (IN),12.24523,76.65978,1.0,60.0,DC,False,False,Public,2025-02-16T17:36:00Z
+Karnataka,Mysuru,OCM,OCM-308883,MG Motor Mysuru,Tata Power,12.3257,76.61038,1.0,60.0,DC,False,False,Public,2025-02-16T17:43:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308885,Shell Yelahanka New Town,Shell Recharge (IN),13.098,77.5658,1.0,120.0,DC,False,False,Public,2025-02-16T17:47:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308886,Shell Recharge Kogilu Road,Shell Recharge (IN),13.1043,77.60448,1.0,120.0,DC,False,False,Public,2025-02-16T17:50:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308888,Shell Recharge Hennur,Shell Recharge (IN),13.07536,77.6524,4.0,120.0,DC,False,False,Public,2025-02-16T17:55:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308889,Shell Recharge Thanisandra,Shell Recharge (IN),13.05367,77.63073,1.0,120.0,DC,False,False,Public,2025-02-16T17:57:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308890,Shell Recharge TC Palya,Shell Recharge (IN),13.02234,77.67867,1.0,120.0,DC,False,False,Public,2025-02-16T18:00:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308891,Shell Recharge Old Madras Road,Shell Recharge (IN),12.9923,77.65942,1.0,120.0,DC,False,False,Public,2025-02-16T18:02:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308894,Shell Recharge Budigere,Shell Recharge (IN),13.06226,77.74273,1.0,120.0,DC,False,False,Public,2025-02-16T18:12:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308895,Shell Recharge Avalahalli,Shell Recharge (IN),13.04041,77.74131,1.0,120.0,DC,False,False,Public,2025-02-16T18:16:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308896,Shell Recharge Brookfield,Shell Recharge (IN),12.982973492700651,77.7080860046741,1.0,120.0,DC,False,False,Public,2025-02-16T18:20:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308897,Shell Recharge Prestige Shantiniketan,Shell Recharge (IN),12.992,77.7299,1.0,30.0,DC,False,False,Public,2025-02-16T18:24:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308898,Shell Recharge Bagmane Solarium,Shell Recharge (IN),12.9717,77.7075,1.0,30.0,DC,False,False,Public,2025-02-16T18:29:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308899,Shell Recharge Prestige Tech Park,Shell Recharge (IN),12.94269,77.69235,1.0,30.0,DC,False,False,Public,2025-02-16T18:32:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308900,Shell Recharge Marathahalli,Shell Recharge (IN),12.94285,77.69782,1.0,120.0,DC,False,False,Public,2025-02-16T18:36:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308901,Shell Recharge Haralur,Shell Recharge (IN),12.91293,77.66542,1.0,120.0,DC,False,False,Public,2025-02-16T18:40:00Z
+Karnataka,Bengaluru North,OCM,OCM-308902,Shell Recharge Gokare Road,Shell Recharge (IN),13.23897,77.72394,1.0,120.0,DC,False,False,Public,2025-02-16T18:43:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308903,Shell Recharge Yelachenahalli,Shell Recharge (IN),12.89719,77.57071,1.0,120.0,DC,False,False,Public,2025-02-16T18:45:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308904,Shell Recharge Kanakapura Road,Shell Recharge (IN),12.86276,77.53146,1.0,120.0,DC,False,False,Public,2025-02-16T18:48:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308905,"Shell Recharge, Chandapura",Shell Recharge (IN),12.78840738219364,77.73682462376587,1.0,120.0,DC,False,False,Public,2025-02-16T18:51:00Z
+Karnataka,Bengaluru North,OCM,OCM-308906,Shell Recharge Devanahalli,Shell Recharge (IN),13.26416,77.71751,1.0,120.0,DC,False,False,Public,2025-02-16T18:53:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308907,Shell Recharge Anekal Road,Shell Recharge (IN),12.76356,77.70167,1.0,120.0,DC,False,False,Public,2025-02-16T18:56:00Z
+Karnataka,Dharwad,OCM,OCM-308913,Shell Recharge Pale,Shell Recharge (IN),15.240056,75.14345,1.0,120.0,DC,False,False,Public,2025-02-17T04:51:00Z
+Karnataka,Dharwad,OCM,OCM-308914,Shell Recharge Heggeri Dharwad,Shell Recharge (IN),15.52849,74.90613,1.0,120.0,DC,False,False,Public,2025-02-17T04:54:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-308915,Shell Recharge Advaith Hyundai Mangaluru,Shell Recharge (IN),12.90145,74.84193,1.0,60.0,DC,False,False,Public,2025-02-17T04:58:00Z
+Karnataka,Mandya,OCM,OCM-308916,Shell Recharge Advaith Hyundai Mysuru ,Shell Recharge (IN),12.34912,76.57168,1.0,60.0,DC,False,False,Public,2025-02-17T05:04:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308917,Blusmart Charging Station (Gottigere Hub),JIO BP Pulse (India),12.85845,77.58721,1.0,60.0,DC,False,False,Public,2025-02-17T12:35:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308918,Blusmart Charging Station Electronic City Phase 1,JIO BP Pulse (India),12.82734,77.65552,1.0,60.0,DC,False,False,Public,2025-02-17T12:43:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308919,Jio BP Chandapura,JIO BP Pulse (India),12.79284,77.72766,1.0,60.0,DC,False,False,Public,2025-02-17T12:48:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308920,JioBP Pulse Charging Hub - Electronic City Phase II,JIO BP Pulse (India),12.86462,77.67486,1.0,60.0,DC,False,False,Public,2025-02-17T12:54:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308921,"La Maison Citroën Hosur Road, Bengaluru",JIO BP Pulse (India),12.86308,77.65922,1.0,60.0,DC,False,False,Public,2025-02-17T12:59:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308922,Blusmart Charging Station (HSR Hub),JIO BP Pulse (India),12.90212,77.64191,1.0,60.0,DC,False,False,Public,2025-02-17T13:06:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-308923,ibis Bengaluru Hosur Road,JIO BP Pulse (India),12.90073,77.63203,1.0,60.0,DC,False,False,Public,2025-02-17T13:10:00Z
+Karnataka,Bengaluru South,OCM,OCM-308924,Eagleton The Golf Resort,JIO BP Pulse (India),12.80007,77.41324,1.0,60.0,DC,False,False,Public,2025-02-17T14:11:00Z
+Karnataka,Bengaluru South,OCM,OCM-308760;OCM-308925,Shivalli Chowki Restaurant,Zeon Charging,12.63923,77.14023,1.0,30.0,DC,False,False,Public,2025-02-11T17:11:00Z
+Karnataka,Chamarajanagar,OCM,OCM-308926,Vana Vihar Resort Bandipur,Tata Power,11.70634,76.64111,1.0,60.0,DC,False,False,Public,2025-02-17T14:27:00Z
+Karnataka,Chamarajanagar,OCM,OCM-308927,MC Resort Bandipura,Statiq (IN),11.69692,76.63576,1.0,60.0,DC,False,False,Public,2025-02-17T14:29:00Z
+Karnataka,Chikkamagaluru,OCM,OCM-308937,Hotel Aadrika,JIO BP Pulse (India),13.31755,75.77101,1.0,60.0,DC,False,False,Public,2025-02-17T16:18:00Z
+Karnataka,Chikkamagaluru,OCM,OCM-308938,The Grand Krishna Hotel,Rebolt (IN),13.32784,75.77365,1.0,7.0,light,False,False,Public,2025-02-17T16:23:00Z
+Karnataka,Chikkamagaluru,OCM,OCM-308939,Hotel Sharada Comforts,Rebolt (IN),13.42865,75.25619,2.0,7.0,light,False,False,Public,2025-02-17T16:27:00Z
+Karnataka,Udupi,OCM,OCM-308940,Jyothis Residency,Rebolt (IN),13.86534,74.81452,1.0,7.0,light,False,False,Public,2025-02-17T16:34:00Z
+Karnataka,Uttara Kannada,OCM,OCM-308941,Shreekumar Residency,Chargezone (India),14.32599,74.42664,1.0,60.0,DC,False,False,Public,2025-02-17T16:37:00Z
+Karnataka,Uttara Kannada,OCM,OCM-308942,Hotel Lavender Elite,Rebolt (IN),14.3166,74.42836,1.0,7.0,light,False,False,Public,2025-02-17T16:40:00Z
+Karnataka,Uttara Kannada,OCM,OCM-308943,TSS Super market,Tata Power,14.96012,74.71765,1.0,30.0,DC,False,False,Public,2025-02-17T16:44:00Z
+Karnataka,Uttara Kannada,OCM,OCM-308944,"TSS Super Market, Mundagod",Tata Power,14.97927,75.04431,1.0,30.0,DC,False,False,Public,2025-02-17T16:46:00Z
+Karnataka,Haveri,OCM,OCM-308945,Hotel Panchavati,Chargezone (India),14.94519,75.25032,1.0,60.0,DC,False,False,Public,2025-02-17T16:50:00Z
+Karnataka,Dharwad,OCM,OCM-308946,Sai Ganesh Restaurant,Chargezone (India),15.27878,75.14759,1.0,150.0,DC,False,False,Public,2025-02-17T16:56:00Z
+Karnataka,Dharwad,OCM,OCM-308949,Shreya Stellar Mall,Tata Power,15.3593,75.12727,1.0,60.0,DC,False,False,Public,2025-02-17T17:00:00Z
+Karnataka,Dharwad,OCM,OCM-308950,Salimath Engineers,Tata Power,15.35533,75.08915,1.0,25.0,light,False,False,Public,2025-02-17T17:03:00Z
+Karnataka,Dharwad,OCM,OCM-308951,MG Motor Bellad,Tata Power,15.40827,75.06133,1.0,25.0,light,False,False,Public,2025-02-17T17:07:00Z
+Karnataka,Haveri,OCM,OCM-308953,Deol Punjabi Hotel & Lodge,Wheels Drive (IN),14.65406,75.56992,1.0,30.0,DC,False,False,Public,2025-02-17T17:20:00Z
+Karnataka,Bengaluru North,OCM,OCM-308964,Ghar Ka Khana,JIO BP Pulse (India),13.24891,77.22395,1.0,60.0,DC,False,False,Public,2025-02-18T17:33:00Z
+Karnataka,Tumakuru,OCM,OCM-308965,"Sree Auto, Tumkur",Tata Power,13.34529,77.08027,1.0,30.0,DC,False,False,Public,2025-02-18T17:36:00Z
+Karnataka,Chitradurga,OCM,OCM-308970,Hotel Aroma Natural Veg,Chargezone (India),13.839530123616814,76.73914834433563,1.0,30.0,DC,False,False,Public,2025-02-19T14:31:00Z
+Karnataka,Chitradurga,OCM,OCM-308971,Hotel Aroma Natural Veg,Statiq (IN),13.839530123616814,76.73914834433563,1.0,60.0,DC,False,False,Public,2025-02-19T14:33:00Z
+Karnataka,Chitradurga,OCM,OCM-308972,Dakshin Motors - TATA Service Center,Tata Power,13.92317,76.64257,1.0,25.0,light,False,False,Public,2025-02-19T14:40:00Z
+Karnataka,Chitradurga,OCM,OCM-308973,Purohit Hotel,Chargezone (India),14.0521,76.56153,1.0,60.0,DC,False,False,Public,2025-02-19T14:43:00Z
+Karnataka,Chitradurga,OCM,OCM-308974,Akshara Pure Veg,Tata Power,14.08641,76.54001,1.0,60.0,DC,False,False,Public,2025-02-19T14:45:00Z
+Karnataka,Vijayanagara,OCM,OCM-308975,Hotel Anand Vihar,Statiq (IN),14.62398,76.46012,1.0,60.0,DC,False,False,Public,2025-02-19T14:49:00Z
+Karnataka,Davanagere,OCM,OCM-308976,Adishakti Cars,Tata Power,14.44223,75.95212,1.0,25.0,light,False,False,Public,2025-02-19T14:52:00Z
+Karnataka,Haveri,OCM,OCM-308977,Shiva Hotel,Tata Power,14.53811,75.75962,1.0,60.0,DC,False,False,Public,2025-02-19T14:55:00Z
+Karnataka,Davanagere,OCM,OCM-308979,Mahindra Mahanth Motors,Statiq (IN),14.47385,75.88627,1.0,60.0,DC,False,False,Public,2025-02-19T15:03:00Z
+Karnataka,Davanagere,OCM,OCM-308980,Kahaani - The Food Journey,Chargezone (India),14.44549,75.8911,2.0,60.0,DC,False,False,Public,2025-02-19T15:06:00Z
+Karnataka,Davanagere,OCM,OCM-308981,Raastha Resto Bar,Chargezone (India),14.44452,75.89139,1.0,60.0,DC,False,False,Public,2025-02-19T15:08:00Z
+Karnataka,Haveri,OCM,OCM-308982,Nisarga Family Restaurant,Statiq (IN),14.55971,75.72506,1.0,120.0,DC,False,False,Public,2025-02-19T15:12:00Z
+Karnataka,Belagavi,OCM,OCM-308983,Hotel Gajaraj Palace,Chargezone (India),15.58799,74.78388,1.0,30.0,DC,False,False,Public,2025-02-19T15:16:00Z
+Karnataka,Belagavi,OCM,OCM-308984,Shri Mahalingeshwar Petroleums,Statiq (IN),15.80585,74.57531,1.0,30.0,DC,False,False,Public,2025-02-19T16:28:00Z
+Karnataka,Belagavi,OCM,OCM-308985,BPCL Goral Petroleum,Statiq (IN),15.83662,74.49365,1.0,30.0,DC,False,False,Public,2025-02-19T16:36:00Z
+Karnataka,Belagavi,OCM,OCM-308986,Miraculum Kia,Tata Power,15.80545,74.48541,1.0,90.0,DC,False,False,Public,2025-02-19T16:38:00Z
+Karnataka,Belagavi,OCM,OCM-308987,"Manickbag Automobiles, Belagavi",Tata Power,15.8188,74.49224,1.0,25.0,light,False,False,Public,2025-02-19T16:40:00Z
+Karnataka,Belagavi,OCM,OCM-308988,Pai Resorts,Wheels Drive (IN),15.867344553938452,74.52868439845417,1.0,30.0,DC,False,False,Public,2025-02-19T16:43:00Z
+Karnataka,Belagavi,OCM,OCM-308989,"UK27 The Fern - An Ecotel Hotel, Belagavi",JIO BP Pulse (India),15.87496,74.51343,1.0,24.0,light,False,False,Public,2025-02-19T16:49:00Z
+Karnataka,Belagavi,OCM,OCM-308990,Hotel Ramdev,Chargezone (India),15.878287475844715,74.51579659267398,1.0,30.0,DC,False,False,Public,2025-02-19T16:51:00Z
+Karnataka,Belagavi,OCM,OCM-308991,RR Mall Belagavi,JIO BP Pulse (India),15.901614805901247,74.52143374766956,1.0,60.0,DC,False,False,Public,2025-02-19T16:54:00Z
+Karnataka,Belagavi,OCM,OCM-308994,Jio-BP Petrol Pump,JIO BP Pulse (India),16.19321,74.518,1.0,60.0,DC,False,False,Public,2025-02-19T17:11:00Z
+Karnataka,Belagavi,OCM,OCM-308995,HR Motel,JIO BP Pulse (India),15.9663,75.01014,1.0,60.0,DC,False,False,Public,2025-02-19T17:13:00Z
+Karnataka,Vijayanagara,OCM,OCM-308996,Royal Orchid Central Kireeti,JIO BP Pulse (India),15.28683,76.38577,1.0,60.0,DC,False,False,Public,2025-02-19T17:17:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-308997,Deepak Sales and Services - BPCL Petrol Pump,Statiq (IN),12.94928,74.81044,1.0,30.0,DC,False,False,Public,2025-02-19T17:23:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-308998,J B Fuel Station,Statiq (IN),12.940230312722576,74.81603967380636,1.0,30.0,DC,False,False,Public,2025-02-19T17:26:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-308999,Audi Mangaluru,Statiq (IN),12.923881847417348,74.8296552161257,1.0,30.0,DC,False,False,Public,2025-02-19T17:30:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309013,Ginger Hotel,Tata Power,12.908462407676879,74.83580306975753,1.0,30.0,DC,False,False,Public,2025-02-20T16:36:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309014,MG Motor Jubilant Motors,Tata Power,12.92394,74.83135,1.0,60.0,DC,False,False,Public,2025-02-20T16:41:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309015,Sowkar M Baba Pai & Co,Statiq (IN),12.888069564664889,74.8354843185316,1.0,30.0,DC,False,False,Public,2025-02-20T16:46:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309016,Mescom Substation Bejai,Statiq (IN),12.88666,74.84176,1.0,25.0,light,False,False,Public,2025-02-20T16:49:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309017,"Auto Matrix, Bejai",Tata Power,12.88567,74.84352,1.0,25.0,light,False,False,Public,2025-02-20T16:52:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309018,"Vivanta Mangalore, Old Port Road",Tata Power,12.86212,74.83519,1.0,30.0,DC,False,False,Public,2025-02-20T16:56:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309019,Fiza by Nexus Mall,JIO BP Pulse (India),12.85763,74.83832,1.0,60.0,DC,False,False,Public,2025-02-20T16:59:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309020,St Joseph Service Centre,Statiq (IN),12.8591,74.85515,1.0,30.0,DC,False,False,Public,2025-02-20T17:02:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309021,"Cauvery Motors, Mangalore",Statiq (IN),12.87213,74.89078,1.0,25.0,light,False,False,Public,2025-02-20T17:05:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309022,A.R.M Kia,Tata Power,12.86709,74.90488,1.0,90.0,DC,False,False,Public,2025-02-20T17:10:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309023,GL ONE MALL,Wheels Drive (IN),12.76013,75.20645,1.0,30.0,DC,False,False,Public,2025-02-20T17:14:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309024,Sri Manjunatha Fuel Station,Statiq (IN),12.83561,75.39953,1.0,30.0,DC,False,False,Public,2025-02-20T17:17:00Z
+Karnataka,Mysuru,OCM,OCM-309060,Akshaya Motors,Chargezone (India),12.35941,76.62151,1.0,30.0,DC,False,False,Public,2025-02-22T06:02:00Z
+Karnataka,Mysuru,OCM,OCM-309061,GRS Fantasy Park,Statiq (IN),12.35317,76.6357,1.0,60.0,DC,False,False,Public,2025-02-22T06:08:00Z
+Karnataka,Mysuru,OCM,OCM-309062,Ganapati Fuel Station,Statiq (IN),12.35048,76.63894,1.0,24.0,light,False,False,Public,2025-02-22T06:23:00Z
+Karnataka,Mysuru,OCM,OCM-309063,Nexus Centre City,Statiq (IN),12.31857,76.66539,1.0,80.0,DC,False,False,Public,2025-02-22T06:31:00Z
+Karnataka,Mysuru,OCM,OCM-309064,Hotel Siddharta,Rebolt (IN),12.30853,76.66071,1.0,30.0,DC,False,False,Public,2025-02-22T06:35:00Z
+Karnataka,Mysuru,OCM,OCM-309065,"Urs Kar, Krishnamurthy Puram",Tata Power,12.29519,76.6415,1.0,25.0,light,False,False,Public,2025-02-22T06:39:00Z
+Karnataka,Mysuru,OCM,OCM-309066,Southern Star Mysore,Tata Power,12.31169,76.64328,1.0,60.0,DC,False,False,Public,2025-02-22T06:42:00Z
+Karnataka,Mysuru,OCM,OCM-309068,Adarsh Kia - Mysore,Tata Power,12.30706,76.70759,1.0,90.0,DC,False,False,Public,2025-02-22T06:54:00Z
+Karnataka,Mysuru,OCM,OCM-309069,Nagalakshmi Fuel Station,Statiq (IN),12.30446,76.70639,1.0,30.0,DC,False,False,Public,2025-02-22T06:57:00Z
+Karnataka,Mandya,OCM,OCM-309070,Bolt.Earth Charging Station,Bolt.Earth (IN),12.48172,77.03598,1.0,30.0,DC,False,False,Public,2025-02-22T07:02:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309076,Hotel Kadamba Veg,Zeon Charging,12.9019345,77.4689096,1.0,24.0,light,False,False,Public,2025-02-23T04:46:00Z
+Karnataka,Hassan,OCM,OCM-309095,Hotel Varun Mansion ,JIO BP Pulse (India),13.00219031804562,76.13960172358225,1.0,60.0,DC,False,False,Public,2025-02-24T13:47:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309097,ibis Bengaluru City Centre,JIO BP Pulse (India),12.96751,77.5939,1.0,60.0,DC,False,False,Public,2025-02-24T15:00:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309098,Divyasree Chambers,Statiq (IN),12.96192,77.59922,1.0,60.0,DC,False,False,Public,2025-02-24T15:03:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309099,ITC Gardenia Bengaluru,Statiq (IN),12.96728,77.59552,1.0,30.0,DC,False,False,Public,2025-02-24T15:06:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309148,Kia India Training Center,Tata Power,13.05242,77.74675,1.0,150.0,DC,False,False,Public,2025-03-01T13:00:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309149,Orion Uptown Mall,JIO BP Pulse (India),13.05515,77.7638,1.0,60.0,DC,False,False,Public,2025-03-01T13:04:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309150,GAIL Gas Station -Tata Power,Tata Power,13.15341,77.72827,1.0,30.0,DC,False,False,Public,2025-03-01T13:08:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309151,GLIDA Charging Hub,Statiq (IN),13.18324,77.67608,10.0,60.0,DC,False,False,Public,2025-03-01T13:55:00Z
+Karnataka,Bengaluru North,OCM,OCM-309152,Shell Recharge Devanahalli,Shell Recharge (IN),13.24117,77.70313,1.0,120.0,DC,False,False,Public,2025-03-01T14:00:00Z
+Karnataka,Bengaluru North,OCM,OCM-309153,Taj Bangalore,Statiq (IN),13.19736,77.71011,1.0,60.0,DC,False,False,Public,2025-03-01T14:13:00Z
+Karnataka,Bengaluru North,OCM,OCM-309154,JW Marriott Bengaluru Prestige Golfshire Resort & Spa,Chargezone (India),13.31205,77.69087,1.0,30.0,DC,False,False,Public,2025-03-01T14:20:00Z
+Karnataka,Bengaluru North,OCM,OCM-309155,Mulberry Shades Bengaluru Nandi Hills,Chargezone (India),13.34843,77.68211,1.0,30.0,DC,False,False,Public,2025-03-01T14:24:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309156,Click Hotel Sadahalli,Tata Power,13.19218,77.64652,1.0,30.0,DC,False,False,Public,2025-03-01T14:32:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309157,Moxy Bengaluru Airport Prestige Tech Cloud,Chargezone (India),13.19211,77.64456,1.0,30.0,DC,False,False,Public,2025-03-01T14:37:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309158,Jio BP Chikkajala,JIO BP Pulse (India),13.16554,77.62933,1.0,60.0,DC,False,False,Public,2025-03-01T14:40:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309185,Jaguar Land Rover Cars Airport Road,Tata Power,13.11756,77.60923,1.0,50.0,DC,False,False,Public,2025-03-03T16:55:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309186,Jio BP Charging Hub Chikkagubbi ,JIO BP Pulse (India),13.087848141186939,77.66014774782752,56.0,60.0,DC,False,False,Public,2025-03-03T17:03:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309187,Elements Mall,Statiq (IN),13.04612,77.6269,3.0,150.0,DC,False,False,Public,2025-03-03T17:10:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309188,Gokulam Grand Hotel & Spa,Tata Power,13.04204,77.55465,1.0,25.0,light,False,False,Public,2025-03-03T17:13:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309189,Orion Avenue,JIO BP Pulse (India),13.001137938818005,77.63254,2.0,60.0,DC,False,False,Public,2025-03-03T17:18:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309190,Sixth Gear Cars,Chargezone (India),13.046755410837207,77.59123644794158,1.0,60.0,DC,False,False,Public,2025-03-03T17:21:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309220,"Adishakti Cars, Hebbal",Tata Power,13.04291,77.60927,1.0,25.0,light,False,False,Public,2025-03-04T16:10:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309221,Sundaram Motors Mercedes-Benz,Chargezone (India),12.86689,74.90518,1.0,60.0,DC,False,False,Public,2025-03-04T16:25:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309222,Mangaluru International Airport,Chargezone (India),12.95149,74.87191,1.0,60.0,DC,False,False,Public,2025-03-04T16:40:00Z
+Karnataka,Hassan,OCM,OCM-309223,Hotel Indraprastha,Adani Gas-EV (TR),12.941033267964471,76.35064287596902,1.0,60.0,DC,False,False,Public - Membership Required,2025-03-04T16:43:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-309224,Vibrant PU College,Wheels Drive (IN),13.05771,75.03821,1.0,30.0,DC,False,False,Public,2025-03-04T16:45:00Z
+Karnataka,Udupi,OCM,OCM-309225,"WheelsDrive Charger, Bajagoly",Wheels Drive (IN),13.19883,75.06799,1.0,30.0,DC,False,False,Public,2025-03-04T16:49:00Z
+Karnataka,Udupi,OCM,OCM-309226,Krupa Motors & Fuels,Statiq (IN),13.45598,74.98411,1.0,30.0,DC,False,False,Public,2025-03-04T16:53:00Z
+Karnataka,Udupi,OCM,OCM-309227,Ashitha Enterprises BPCL,Statiq (IN),13.47826,74.7132,1.0,30.0,DC,False,False,Public,2025-03-04T16:57:00Z
+Karnataka,Udupi,OCM,OCM-309228,Rajani Fuel Centre,Statiq (IN),13.65205,74.70635,1.0,30.0,DC,False,False,Public,2025-03-04T16:59:00Z
+Karnataka,Udupi,OCM,OCM-309229,S.G. Enterprises BPCL,Statiq (IN),13.85362,74.6304,1.0,30.0,DC,False,False,Public,2025-03-04T17:02:00Z
+Karnataka,Uttara Kannada,OCM,OCM-309230,M/S T.S Tawady - BPCL,Statiq (IN),14.341170986862267,74.89089758268335,1.0,30.0,DC,False,False,Public,2025-03-04T17:06:00Z
+Karnataka,Uttara Kannada,OCM,OCM-309231,Arthigamaya Spa & Resort,Rebolt (IN),14.52576,74.31716,1.0,7.0,light,False,False,Public,2025-03-04T17:08:00Z
+Karnataka,Belagavi,OCM,OCM-309232,CAFE PARADISE FAMILY RESTAURANT,Statiq (IN),15.43437,74.46271,1.0,60.0,DC,False,False,Public,2025-03-04T17:12:00Z
+Karnataka,Davanagere,OCM,OCM-309265,Manjunath Fuel Service-BPCL,Statiq (IN),14.14024,75.55737,1.0,30.0,DC,False,False,Public,2025-03-06T11:43:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309266,Audi Central,Statiq (IN),12.97001545590929,77.6004747835533,1.0,60.0,DC,False,False,Public,2025-03-06T12:02:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309267,JW Marriott,Chargezone (India),12.97228768658023,77.59492658243641,1.0,60.0,DC,False,False,Public,2025-03-06T12:10:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309268,Sundaram Motors,Chargezone (India),12.973845154518216,77.59597891080779,1.0,90.0,DC,False,False,Public,2025-03-06T12:14:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309269,Hotel Southern Star,Tata Power,12.974727464060706,77.59942186908683,1.0,30.0,DC,False,False,Public,2025-03-06T12:17:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309270,BMW Navnit Motors,(Unknown Operator),12.97259859569182,77.59908118684689,1.0,24.0,light,False,False,Public,2025-03-06T12:23:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309271,Forum Rex Walk,Statiq (IN),12.972458,77.606851,4.0,30.0,DC,False,False,Public,2025-03-06T12:28:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309272,Vivanta by Taj Residency Road,Tata Power,12.97248838809081,77.60854161055966,1.0,30.0,DC,False,False,Public,2025-03-06T12:32:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309273,Welcomhotel Richmond Road,Statiq (IN),12.968709974182843,77.61440938105488,1.0,60.0,DC,False,False,Public,2025-03-06T12:36:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309274,BESCOM Byatarayanapura,(Unknown Operator),12.950278857508295,77.54055692747397,1.0,15.0,light,False,False,Public,2025-03-06T12:42:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309277,BESCOM Rajarajeshwari Nagar,(Unknown Operator),12.92905,77.514789,1.0,50.0,DC,False,False,Public,2025-03-06T12:52:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309278,"Key Motors, Kanakapura Main Road",Tata Power,12.90401,77.57358,1.0,25.0,light,False,False,Public,2025-03-06T13:00:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309279,Royal Meenakshi Mall,Statiq (IN),12.8759,77.59583,1.0,60.0,DC,False,False,Public,2025-03-06T13:04:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309281,"Key Motors, Bannerghatta Road",Tata Power,12.88912,77.59736,1.0,24.0,light,False,False,Public,2025-03-06T13:09:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309283,Anant Cars Bannerghatta Road,Chargezone (India),12.90302,77.60159,1.0,30.0,DC,False,False,Public,2025-03-06T13:13:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309285,The Pavilion 2,Chargezone (India),12.90375,77.60136,1.0,150.0,DC,False,False,Public,2025-03-06T13:22:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309293,"The Oberoi, Bengaluru",Tata Power,12.972788253204087,77.6184047836071,1.0,60.0,DC,False,False,Public,2025-03-06T14:25:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309294,Taj MG Road,Tata Power,12.97331434540071,77.6195781000381,1.0,30.0,DC,False,False,Public,2025-03-06T14:27:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309295,The Park Hotel,Tata Power,12.973940635420362,77.61988884794027,1.0,30.0,DC,False,False,Public,2025-03-06T14:30:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309296,Carzonrent,Statiq (IN),12.974519436687544,77.62146110718822,1.0,60.0,DC,False,False,Public,2025-03-06T14:34:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309297,Divyashree Greens,Statiq (IN),12.952724425242494,77.64085233195198,1.0,60.0,DC,False,False,Public,2025-03-06T14:44:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309298,KTC Legacy Charging Station,(Unknown Operator),12.945761639147051,77.67413004669817,1.0,60.0,DC,False,False,Public,2025-03-06T14:47:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309299,"Bengaluru One, Old Airport Road",(Unknown Operator),12.95925146155301,77.6627608005785,1.0,25.0,light,False,False,Public,2025-03-06T14:50:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309300,Divija EV charging Station,(Unknown Operator),12.918010619982525,77.64926514630082,1.0,25.0,light,False,False,Public,2025-03-06T14:55:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309301,Pratham Motors,JIO BP Pulse (India),12.89388,77.65157,1.0,60.0,DC,False,False,Public,2025-03-06T16:32:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309302,"Prerana Motors, Hongasandra",Tata Power,12.8912,77.63829,1.0,25.0,light,False,False,Public,2025-03-06T16:34:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309303,"More Hypermarket, Hosur Road",Statiq (IN),12.88014,77.64592,1.0,60.0,DC,False,False,Public,2025-03-06T16:39:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309304,Metropolis Gurukrupa,Statiq (IN),12.87544,77.64835,1.0,60.0,DC,False,False,Public,2025-03-06T16:45:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309305,"Kropex Auto, Hosur Road",Tata Power,12.87194,77.65095,1.0,25.0,light,False,False,Public,2025-03-06T16:47:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309306,MG Motor Hosur Road,Statiq (IN),12.86563,77.65753,1.0,50.0,DC,False,False,Public,2025-03-06T16:52:00Z
+Karnataka,Bengaluru South,OCM,OCM-309307,Manikanta Filling Centre BPCL,Statiq (IN),12.6915,77.47631,1.0,30.0,DC,False,False,Public,2025-03-06T16:55:00Z
+Karnataka,Bengaluru South,OCM,OCM-309308,Key Motors,Tata Power,12.57449,77.42937,1.0,25.0,light,False,False,Public,2025-03-06T16:59:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309309,DoubleTree Suites by Hilton Bengaluru Outer Ring Road,Statiq (IN),12.919111753741149,77.66515519490173,1.0,60.0,DC,False,False,Public,2025-03-06T17:03:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309310,Courtyard by Marriott,Chargezone (India),12.928234378881882,77.68218794687056,1.0,60.0,DC,False,False,Public,2025-03-06T17:05:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309311,The Bay at Ecoworld,(Unknown Operator),12.921003663939288,77.68539425864924,1.0,80.0,DC,False,False,Public,2025-03-06T17:08:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309312,RMZ Eco World,Zeon Charging,12.92099415205729,77.6860545556384,1.0,50.0,DC,False,False,Public,2025-03-06T17:11:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309313,Big Pitcher Sarjapur Road,JIO BP Pulse (India),12.90986,77.68856,1.0,60.0,DC,False,False,Public,2025-03-06T17:15:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309314,Bellandur Charging Hub,Statiq (IN),12.92924,77.70305,1.0,60.0,DC,False,False,Public,2025-03-06T17:22:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309315,Aloft Bengaluru Outer Ring Road ,Chargezone (India),12.93674468018763,77.69488851137544,1.0,60.0,DC,False,False,Public,2025-03-06T17:25:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309316,Exora Business Park,(Unknown Operator),12.94329,77.69229,1.0,60.0,DC,False,False,Public,2025-03-06T17:28:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309318,Jio-BP Pulse Varthur Hub,JIO BP Pulse (India),12.93979,77.73447,18.0,60.0,DC,False,False,Public,2025-03-06T17:40:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309319,Freedom Park,Bolt.Earth (IN),12.97859,77.58139,1.0,25.0,light,False,False,Public,2025-03-06T17:44:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309320,"Global Mall, Okalipuram",Rebolt (IN),12.98211,77.56317,1.0,30.0,DC,False,False,Public,2025-03-06T17:50:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309328,Forum South Bengaluru,Statiq (IN),12.88919162512768,77.56343684144673,1.0,60.0,DC,False,False,Public,2025-03-07T12:01:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309329,Nexus Whitefield Jio-BP,JIO BP Pulse (India),12.960076399887868,77.74719391663552,1.0,60.0,DC,False,False,Public,2025-03-07T12:09:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309330,Nexus Whitefield Statiq,Statiq (IN),12.960076399887868,77.74719391663552,1.0,60.0,DC,False,False,Public,2025-03-07T12:15:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309331,The Zinc By Fern Hotels,(Unknown Operator),12.97757571689229,77.7570895079167,1.0,24.0,light,False,False,Public,2025-03-07T12:21:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309332,Taj Vivanta Whitefield,Tata Power,12.98720238234145,77.7373662993079,1.0,30.0,DC,False,False,Public,2025-03-07T12:26:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-103603;OCM-309333,Ather Grid Point - Ascendas Park square mall,(Unknown Operator),12.9872191,77.7364744,2.0,3.0,light,False,False,Public,2018-05-04T08:01:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309334,Divyasree NR Enclave,Statiq (IN),12.986347110711023,77.73038387486008,1.0,60.0,DC,False,False,Public,2025-03-07T12:33:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309335,Sheraton Grand Bengaluru Whitefield Hotel & Convention Center,Chargezone (India),12.989215375302493,77.72961910576282,1.0,30.0,DC,False,False,Public,2025-03-07T12:40:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309336;OCM-309337,Nexus Shantiniketan - Statiq,Statiq (IN),12.989065694796125,77.72760379808074,1.0,60.0,DC,False,False,Public,2025-03-07T12:46:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309338,Marriott Hotel Whitefield,Chargezone (India),12.979262407836174,77.72744812682743,1.0,30.0,DC,False,False,Public,2025-03-07T12:55:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309339,DivyaSree LitBox,Statiq (IN),12.97098961190295,77.7250244631253,1.0,60.0,DC,False,False,Public,2025-03-07T12:59:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309340,"Jio-bp Pulse Hub, Siddhapura",JIO BP Pulse (India),12.957173268150797,77.72954555409183,1.0,60.0,DC,False,False,Public,2025-03-07T13:03:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309341,goEgo EV CHARGE PARK,(Unknown Operator),12.96316,77.71814,1.0,60.0,DC,False,False,Public,2025-03-07T13:09:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309342,JLR Shakti Auto,Tata Power,12.963582255188314,77.7173795341912,1.0,25.0,light,False,False,Public,2025-03-07T13:11:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309343,KHT Brookefield,Tata Power,12.96712414548928,77.71696159433418,1.0,25.0,light,False,False,Public,2025-03-07T13:13:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309344,Prestige Technostar,JIO BP Pulse (India),12.972600290996027,77.71145680417794,1.0,60.0,DC,False,False,Public,2025-03-07T13:17:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309345,"Fairfield by Marriott, Mahadevapura",Chargezone (India),12.981842444072356,77.7086328330862,1.0,30.0,DC,False,False,Public,2025-03-07T13:20:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309346,Lithium Urban Tech Pvt Ltd,(Unknown Operator),12.98306,77.70906,1.0,60.0,DC,False,False,Public,2025-03-07T13:25:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309347,BMW Deutsche Motoren,(Unknown Operator),12.984136068485071,77.70811153054012,1.0,50.0,DC,False,False,Public,2025-03-07T13:27:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309348,Epitome KIA Whitefield,Tata Power,12.985769101393643,77.70856232742358,1.0,150.0,DC,False,False,Public,2025-03-07T13:30:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309349,Trifecta Addatto,Statiq (IN),12.994305942257284,77.69929493060977,4.0,60.0,DC,False,False,Public,2025-03-07T15:49:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309350,MG Motor B Narayanapura,Statiq (IN),12.99577,77.6847,1.0,50.0,DC,False,False,Public,2025-03-07T15:55:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-309351,Lithium Charging Station,(Unknown Operator),13.014903182800126,77.6462047089708,1.0,30.0,DC,False,False,Public - Membership Required,2025-03-07T16:00:00Z
+Karnataka,Bengaluru North,OCM,OCM-309352,Miracle Dhaba,Adani Gas-EV (TR),13.08468,77.41488,1.0,60.0,DC,False,False,Public,2025-03-07T16:15:00Z
+Karnataka,Ballari,OCM,OCM-309355,Bellad Enterprises Pvt Ltd,Tata Power,15.1624,76.86862,1.0,30.0,DC,False,False,Public,2025-03-07T16:27:00Z
+Karnataka,Ballari,OCM,OCM-309356,Mahindra Bellary Motors,Statiq (IN),15.14016,76.97093,1.0,60.0,DC,False,False,Public,2025-03-07T16:29:00Z
+Karnataka,Ballari,OCM,OCM-309357,Jio-BP Mobility Station PD Halli,JIO BP Pulse (India),15.14327,77.0632,1.0,60.0,DC,False,False,Public,2025-03-07T16:32:00Z
+Karnataka,Dharwad,OCM,OCM-309367,OM EV Charging,Bolt.Earth (IN),15.512047073177143,74.94282023254493,1.0,60.0,DC,False,False,Public,2025-03-08T16:48:00Z
+Karnataka,Belagavi,OCM,OCM-309368,ITC Welcome Hotel,(Unknown Operator),15.92777043150447,74.53233233195056,1.0,60.0,DC,False,False,Public,2025-03-08T17:07:00Z
+Karnataka,Bagalkote,OCM,OCM-309369,BPCL Bagalkote,(Unknown Operator),16.18182,75.63617,1.0,30.0,DC,False,False,Public,2025-03-08T17:17:00Z
+Karnataka,Koppal,OCM,OCM-309370,Hotel Poorvi,Statiq (IN),15.638844102151054,76.22021126845289,1.0,60.0,DC,False,False,Public,2025-03-08T17:20:00Z
+Karnataka,Bagalkote,OCM,OCM-309422,Jio BP Mobility Station,JIO BP Pulse (India),15.99107,76.10002,1.0,60.0,DC,False,False,Public,2025-03-10T07:34:00Z
+Karnataka,Bagalkote,OCM,OCM-309423,MR Residency,Statiq (IN),16.053005252157334,76.06577132405101,1.0,60.0,DC,False,False,Public,2025-03-10T07:37:00Z
+Karnataka,Vijayapura,OCM,OCM-309425,Tourist Hotel,Statiq (IN),16.664506543041398,75.80500547067186,1.0,60.0,DC,False,False,Public,2025-03-10T07:41:00Z
+Karnataka,Vijayapura,OCM,OCM-309426,S-Hyper Mart,(Unknown Operator),16.81325,75.7416,1.0,60.0,DC,False,False,Public,2025-03-10T07:46:00Z
+Karnataka,Vijayapura,OCM,OCM-309427,Bijjargi Motors,Tata Power,16.849167933158057,75.73497557870112,1.0,30.0,DC,False,False,Public,2025-03-10T07:50:00Z
+Karnataka,Vijayapura,OCM,OCM-309435,Ashoka Village Resort,Chargezone (India),17.15414,75.79103,1.0,30.0,DC,False,False,Public,2025-03-10T14:56:00Z
+Karnataka,Bidar,OCM,OCM-309436,Vintage Retreat Resort,Chargezone (India),17.79618,77.42225,1.0,30.0,DC,False,False,Public,2025-03-10T14:59:00Z
+Karnataka,Bidar,OCM,OCM-309437,Hotel 24,Chargezone (India),17.7392,77.3347,1.0,90.0,DC,False,False,Public,2025-03-10T15:02:00Z
+Karnataka,Bidar,OCM,OCM-309438,Hotel BHP-6,Statiq (IN),17.7726,77.11402,1.0,60.0,DC,False,False,Public,2025-03-10T15:07:00Z
+Karnataka,Bidar,OCM,OCM-309439,Punjabi Dhami Hotel,Chargezone (India),17.8286,76.90048,1.0,30.0,DC,False,False,Public,2025-03-10T15:10:00Z
+Karnataka,Kalaburagi,OCM,OCM-309440,Aashirwaad Mangal Karyalay,(Unknown Operator),17.32724988186756,76.8677995465194,1.0,60.0,DC,False,False,Public,2025-03-10T15:55:00Z
+Karnataka,Kalaburagi,OCM,OCM-309441,Sri Nisty Pvt,Tata Power,17.27460609347787,76.8740736873587,1.0,30.0,DC,False,False,Public,2025-03-10T15:58:00Z
+Karnataka,Vijayapura,OCM,OCM-309442,New Sangeeta Gardens Family Restaurant,Statiq (IN),16.93447,76.26145,1.0,60.0,DC,False,False,Public,2025-03-10T16:01:00Z
+Karnataka,Yadgir,OCM,OCM-309444,SLV Hotel & Family Restaurant,(Unknown Operator),16.749470877729507,77.13011819812817,1.0,30.0,DC,False,False,Public,2025-03-10T16:24:00Z
+Karnataka,Raichur,OCM,OCM-309483,Pearl EV Fast charger,(Unknown Operator),16.20816450549769,77.35246660991561,1.0,30.0,DC,False,False,Public,2025-03-12T07:36:00Z
+Karnataka,Uttara Kannada,OCM,OCM-309484,Maruti Charging Station,(Unknown Operator),14.847188334519174,74.13547625586537,1.0,7.2,light,False,False,Public,2025-03-12T07:47:00Z
+Karnataka,Chamarajanagar,OCM,OCM-309500,Dhanyalakshmi Fuels BPCL,(Unknown Operator),11.84679,76.67291,1.0,30.0,DC,False,False,Public,2025-03-12T16:43:00Z
+Karnataka,Tumakuru,OCM,OCM-311407,Swathi Delicacy,Zeon Charging,12.99504,76.89999,2.0,120.0,DC,False,False,Public,2025-03-27T15:58:00Z
+Karnataka,Bengaluru South,OCM,OCM-311408,Hotel Masala Suruchi,JIO BP Pulse (India),13.0595636,77.1631723,1.0,60.0,DC,False,False,Public,2025-03-27T16:18:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-311451,Metro Cash&Carry,(Unknown Operator),12.8610658784023,77.66099764437081,1.0,7.4,light,False,False,Public,2025-03-31T15:25:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-311452,BloomSuites,Tata Power,12.839685411251565,77.65952566488613,1.0,30.0,DC,False,False,Public,2025-03-31T15:28:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-311453,Monk Mansion,Statiq (IN),12.841088856819354,77.66441658541129,2.0,60.0,DC,False,False,Public,2025-03-31T15:30:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-311454,Electronic City - BPCL,Statiq (IN),12.85327,77.6672,1.0,30.0,DC,False,False,Public,2025-03-31T15:40:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-311455,Sowmya Fuel Station,Tata Power,12.78393,77.75433,1.0,30.0,DC,False,False,Public,2025-03-31T15:43:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-311910,Mahaveer Ventures Hotel and Resort - The Padival Grand,Zeon Charging,12.76619,75.19666,2.0,24.0,light,False,False,Public,2025-04-23T14:21:00Z
+Karnataka,Mysuru,OCM,OCM-313728,Manipal Hospital Mysore,Zeon Charging,12.350145879658738,76.66019890702132,1.0,60.0,DC,False,False,Public,2025-06-13T13:24:00Z
+Karnataka,Mysuru,OCM,OCM-313729,Hotel Arcore,Zeon Charging,12.352687402465657,76.62920329960255,1.0,60.0,DC,False,False,Public,2025-06-13T13:27:00Z
+Karnataka,Chikkaballapura,OCM,OCM-459990,Jio-BP Pulse,JIO BP Pulse (India),13.6062729,77.7872747,2.0,60.0,DC,False,False,Public - Membership Required,2025-07-22T12:05:00Z
+Karnataka,Hassan,OCM,OCM-460478,Burger King,Zeon Charging,12.960134461557354,76.33023905539169,1.0,120.0,DC,False,False,Public,2025-08-20T15:14:00Z
+Karnataka,Bengaluru South,OCM,OCM-460636,Hotel Kantara Dine,Tata Power,13.06457377178711,77.25712516384169,1.0,30.0,DC,False,False,Public,2025-08-30T14:05:00Z
+Karnataka,Bengaluru Urban,OCM,OCM-472508,Charging station,(Unknown Operator),12.960850473046193,77.58182473802742,1.0,,DC,True,False,Public - Membership Required,2026-01-04T09:52:00Z
+Karnataka,Belagavi,OCM,OCM-474191,Viraj Junction EFill EVCS,Tata Power,16.536666790073667,74.31995764262308,2.0,60.0,DC,False,False,Public - Membership Required,2026-01-15T06:32:00Z
+Odisha,Koraput,OCM,OCM-479091,Jio-bp,,18.7012078,82.879837,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:45:00Z
+Odisha,Koraput,OCM,OCM-479097,BPCL Charging Station,,18.84732,82.56517099999999,2.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T06:45:00Z
+Odisha,Koraput,OCM,OCM-479098,Tata Power Charging Station,,18.8582131,82.5899051,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T06:45:00Z
+Odisha,Ganjam,OCM,OCM-479102,Ather Grid Charging Station,,19.194212,84.61756,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:45:00Z
+Odisha,Ganjam,OCM,OCM-479103,BPCL Charging Station,,19.183324000000002,84.727616,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T06:45:00Z
+Odisha,Ganjam,OCM,OCM-479105,Electric Vehicle Charging Station,,19.180775999999998,84.725327,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T06:45:00Z
+Odisha,Ganjam,OCM,OCM-479106,Maa Tara Tarini Tour And Travels,,19.447535,84.591458,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479107,Tata Power Charging Station,,19.2991714,84.83176309999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479108,Ather Grid Charging Station,,19.303380999999998,84.79504399999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479110,BPCL Charging Station,,19.334626999999998,84.768619,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479111,Ather Grid Charging Station,,19.2956471,84.81956579999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479112,Ather Grid Charging Station,,19.319885,84.78112999999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479113,Ather Grid Charging Station,,19.32163,84.86715,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479114,Electric Vehicle Charging Station,,19.3176997,84.79058359999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479115,Ather Grid Charging Station,,19.30744,84.81665,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479116,Ather Grid Charging Station,,19.31608,84.85278,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479117,Tata Power Charging Station,,19.315210999999998,84.85814400000001,2.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479119,Ather Grid Charging Station,,19.301503999999998,84.83013,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479120,Ather Grid Charging Station,,19.308462,84.77319,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479121,Electric Vehicle Charging Station,,19.3194175,84.7844863,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479122,Electric Vehicle Charging Station,,19.3071386,84.8292277,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479123,Electric Vehicle Charging Station,,19.3171717,84.7772474,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479125,Ather Grid Charging Station,,19.34123,84.76845,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Ganjam,OCM,OCM-479126,Ather Grid Charging Station,,19.31151,84.83354,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:46:00Z
+Odisha,Nabarangapur,OCM,OCM-479127,Tata Power Charging Station,,19.652452999999998,82.225619,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Rayagada,OCM,OCM-479128,Jio-bp,,19.731375,83.479141,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Khordha,OCM,OCM-479129,BPCL Charging Station,,19.749316,85.20759799999999,2.0,60.0,DC,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Ganjam,OCM,OCM-479130,Adani Charging Station,,19.6331555,85.1353263,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Ganjam,OCM,OCM-479131,Tata Power Charging Station,,19.6782474,85.1714786,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Ganjam,OCM,OCM-479132,Jio-bp pulse Charging Station,,19.678549999999998,85.171409,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Puri,OCM,OCM-479133,Ather Grid Charging Station,,19.71935,85.52448679999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Puri,OCM,OCM-479134,Ather Grid Charging Station,,19.799158,85.664566,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Puri,OCM,OCM-479135,Electric Vehicle Charging Station,,19.718937999999998,85.5235713,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Puri,OCM,OCM-479136,Relux Charging Station,,19.790746199999997,85.8030868,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Puri,OCM,OCM-479137,KACHERI SECTION TPCODL,,19.802419699999998,85.8239399,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Puri,OCM,OCM-479138,Ather Grid Charging Station,,19.7952607,85.8132809,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Puri,OCM,OCM-479139,G.K Rickshaw,,19.8134808,85.8362997,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Kalahandi,OCM,OCM-479141,Tata Power Charging Station,,19.924915,83.174075,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Ganjam,OCM,OCM-479142,Jio-bp,,20.038907,84.63856899999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Ganjam,OCM,OCM-479143,Ather Grid Charging Station,,19.924364,84.57135,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Khordha,OCM,OCM-479144,Hindustan Petroleum Corporation Limited,,19.9901672,85.4736527,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Khordha,OCM,OCM-479145,BPCL Charging Station,,19.995597,85.479968,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T06:47:00Z
+Odisha,Koraput,OCM,OCM-479181,Jio-bp,,18.7012078,82.879837,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:00:00Z
+Odisha,Koraput,OCM,OCM-479187,BPCL Charging Station,,18.84732,82.56517099999999,2.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Koraput,OCM,OCM-479188,Tata Power Charging Station,,18.8582131,82.5899051,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479192,Ather Grid Charging Station,,19.194212,84.61756,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479193,BPCL Charging Station,,19.183324000000002,84.727616,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479195,Electric Vehicle Charging Station,,19.180775999999998,84.725327,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479196,Maa Tara Tarini Tour And Travels,,19.447535,84.591458,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479197,Tata Power Charging Station,,19.2991714,84.83176309999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479198,Ather Grid Charging Station,,19.303380999999998,84.79504399999999,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479200,BPCL Charging Station,,19.334626999999998,84.768619,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479201,Ather Grid Charging Station,,19.2956471,84.81956579999999,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479202,Ather Grid Charging Station,,19.319885,84.78112999999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479203,Ather Grid Charging Station,,19.32163,84.86715,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:01:00Z
+Odisha,Ganjam,OCM,OCM-479204,Electric Vehicle Charging Station,,19.3176997,84.79058359999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479205,Ather Grid Charging Station,,19.30744,84.81665,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479206,Ather Grid Charging Station,,19.31608,84.85278,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479207,Tata Power Charging Station,,19.315210999999998,84.85814400000001,2.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479209,Ather Grid Charging Station,,19.301503999999998,84.83013,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479210,Ather Grid Charging Station,,19.308462,84.77319,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479211,Electric Vehicle Charging Station,,19.3194175,84.7844863,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479212,Electric Vehicle Charging Station,,19.3071386,84.8292277,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479213,Electric Vehicle Charging Station,,19.3171717,84.7772474,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479215,Ather Grid Charging Station,,19.34123,84.76845,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479216,Ather Grid Charging Station,,19.31151,84.83354,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Nabarangapur,OCM,OCM-479217,Tata Power Charging Station,,19.652452999999998,82.225619,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Rayagada,OCM,OCM-479218,Jio-bp,,19.731375,83.479141,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Khordha,OCM,OCM-479219,BPCL Charging Station,,19.749316,85.20759799999999,2.0,60.0,DC,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479220,Adani Charging Station,,19.6331555,85.1353263,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479221,Tata Power Charging Station,,19.6782474,85.1714786,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Ganjam,OCM,OCM-479222,Jio-bp pulse Charging Station,,19.678549999999998,85.171409,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Puri,OCM,OCM-479223,Ather Grid Charging Station,,19.71935,85.52448679999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:02:00Z
+Odisha,Puri,OCM,OCM-479224,Ather Grid Charging Station,,19.799158,85.664566,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479225,Electric Vehicle Charging Station,,19.718937999999998,85.5235713,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479226,Relux Charging Station,,19.790746199999997,85.8030868,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479227,KACHERI SECTION TPCODL,,19.802419699999998,85.8239399,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479228,Ather Grid Charging Station,,19.7952607,85.8132809,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479229,G.K Rickshaw,,19.8134808,85.8362997,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Kalahandi,OCM,OCM-479231,Tata Power Charging Station,,19.924915,83.174075,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Ganjam,OCM,OCM-479232,Jio-bp,,20.038907,84.63856899999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Ganjam,OCM,OCM-479233,Ather Grid Charging Station,,19.924364,84.57135,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Khordha,OCM,OCM-479234,Hindustan Petroleum Corporation Limited,,19.9901672,85.4736527,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Khordha,OCM,OCM-479235,BPCL Charging Station,,19.995597,85.479968,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Nayagarh,OCM,OCM-479236,Tata Power Charging Station,,19.9604389,85.4336031,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479237,Ather Grid Charging Station,,19.864923,85.66566999999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479238,Hindustan Petroleum Corporation Limited,,19.887408999999998,85.803106,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479239,Tata Power Charging Station,,19.8373153,85.8366266,2.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479240,BPCL Charging Station,,20.0090935,85.81383199999999,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479241,Electric Vehicle Charging Station,,20.0089777,85.8138496,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479243,Ather Charging Station,,20.001994,85.8205414,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:03:00Z
+Odisha,Puri,OCM,OCM-479244,Jio-bp pulse Charging Station,,19.981225700000003,85.8251193,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Puri,OCM,OCM-479245,Jio-bp pulse Charging Station,,20.036226000000003,85.825447,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Puri,OCM,OCM-479246,"MIRZA RIYAZ HOUSE , CONNON XEROX SERVICE CENTRE,",,20.0299963,86.13191499999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Nuapada,OCM,OCM-479247,BPCL Charging Station,,20.3013862,82.7516433,2.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Balangir,OCM,OCM-479248,Electric Vehicle Charging Station,,20.2027864,82.936256,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Kandhamal,OCM,OCM-479249,Jio-bp,,20.141301,83.968362,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Nayagarh,OCM,OCM-479250,Hindustan Petroleum Corporation Limited,,20.154535799999998,85.0637881,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479251,Ather Grid Charging Station,,20.178873,85.61153,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479252,Electric Vehicle Charging Station,,20.1939131,85.65214879999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479253,Electric Vehicle Charging Station,,20.223618,85.726762,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479254,Tata Power Charging Station,,20.2407436,85.7590281,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479255,Tata Power Charging Station,,20.230607799999998,85.7376707,2.0,60.0,DC,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479256,Kazam Charging Station,,20.254699199999997,85.6867814,1.0,3.299999952316284,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479257,Kazam Charging Station,,20.253022299999998,85.6869698,7.0,3.299999952316284,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479258,Thunder Plus Charging Station,,20.242777999999998,85.75611699999999,1.0,15.0,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479259,Kazam Charging Station,,20.2555141,85.6866637,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479260,Tata Power Charging Station,,20.238165,85.75664300000001,2.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479261,Tata Power Charging Station,,20.241180099999998,85.75915549999999,3.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479262,Statiq Charging Station,,20.205643,85.644066,2.0,60.0,DC,False,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479263,DiodeEV Charging Station,,20.227714799999998,85.73563039999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:04:00Z
+Odisha,Khordha,OCM,OCM-479264,Ola Electric Mobility Charging Station,,20.2573761,85.84097299999999,1.0,1.5,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479265,Tata Power Charging Station,,20.2269974,85.841081,3.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479266,BPCL Charging Station,,20.25473,85.787241,2.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479267,Ather Grid Charging Station,,20.283109,85.80601109999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479268,Ather Charging Station,,20.2476107,85.8409846,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479269,Adani Charging Station,,20.2529878,85.81877899999999,2.0,60.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479270,Ather Grid Charging Station,,20.2986351,85.8227086,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479271,Ather Grid Charging Station,,20.2710386,85.7838293,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479272,Tata Power Charging Station,,20.259014,85.8397059,2.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479273,Statiq Charging Station,,20.245772,85.78304299999999,2.0,60.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479274,Ather Charging Station,,20.2640837,85.8457679,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479275,Ather Grid Charging Station,,20.2669537,85.8694239,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479276,Statiq Charging Station,,20.2914763,85.8560122,2.0,60.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479277,Tata Power Charging Station,,20.299550099999998,85.8309735,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479278,Ather Grid Charging Station,,20.2614172,85.84389929999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479279,Ather Grid Charging Station,,20.256187,85.78683749999999,2.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479280,Adani Charging Station,,20.3570179,85.88882029999999,5.0,60.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Khordha,OCM,OCM-479282,Electric Vehicle Charging Station,,20.289134999999998,85.8152489,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Puri,OCM,OCM-479283,BPCL Charging Station,,20.193901,85.85999199999999,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Jagatsinghapur,OCM,OCM-479284,Ather Grid Charging Station,,20.260697399999998,86.20164369999999,2.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:05:00Z
+Odisha,Jagatsinghapur,OCM,OCM-479285,Tata Power Charging Station,,20.307243,86.320751,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Jagatsinghapur,OCM,OCM-479286,Hindustan Petroleum Corporation Limited,,20.289510099999998,86.6453834,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479287,Hindustan Petroleum Corporation Limited,,20.5512697,85.98549589999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479288,Jio-bp pulse EV Charging Station,,20.3770148,85.8893793,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479289,Ather Grid Charging Station,,20.4621758,85.8837439,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479290,Jio-bp pulse Charging Station,,20.5506603,85.774418,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479291,Tata Power Charging Station,,20.4051611,85.8798077,2.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479292,Ather Grid Charging Station,,20.474403,85.84479979999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479293,Ather Grid Charging Station,,20.4660615,85.9053606,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479294,Ather Charging Station,,20.446043,85.9069427,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479295,Bal Gopal Motors,,20.4551603,85.88665549999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479296,Ather Grid Charging Station,,20.442349999999998,85.90481,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479297,Ather Grid Charging Station,,20.460117,85.88938,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479298,Ather Grid Charging Station,,20.469631,85.85469,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479299,Ather Grid Charging Station,,20.4497938,85.8982001,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479300,Tata Power Charging Station,,20.481787,85.81721300000001,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479301,Electric Vehicle Charging Station,,20.4116317,85.8794133,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479302,Ather Grid Charging Station,,20.453737,85.88848999999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479303,Tata Power Charging Station,,20.529315999999998,85.949237,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:06:00Z
+Odisha,Cuttack,OCM,OCM-479305,Ather Grid Charging Station,,20.491885999999997,85.93527,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Cuttack,OCM,OCM-479306,Tata Power Charging Station,,20.3702497,85.8909745,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Cuttack,OCM,OCM-479307,Adani Charging Station,,20.482358899999998,86.0581588,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Cuttack,OCM,OCM-479308,kesannager electric office,,20.4209459,86.0903038,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Kendrapara,OCM,OCM-479309,Ather Grid Charging Station,,20.5307153,86.3579333,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Subarnapur,OCM,OCM-479312,Electric Vehicle Charging Station,,20.8471861,83.89413499999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Subarnapur,OCM,OCM-479313,Electric Vehicle Charging Station,,20.857754099999998,83.94418209999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Boudh,OCM,OCM-479314,Jio-bp,,20.80489,84.03399,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Angul,OCM,OCM-479315,Hindustan Petroleum Corporation Limited,,20.8234079,85.06204989999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Angul,OCM,OCM-479316,Hindustan Petroleum Corporation Limited Charging Station,,20.8235109,85.0620926,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Angul,OCM,OCM-479317,Tata Power Charging Station,,20.8450685,85.1162026,2.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Angul,OCM,OCM-479318,Ather Grid Charging Station,,20.832794,85.085236,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Angul,OCM,OCM-479319,Tata Power Ez Charging Station,,20.832793199999998,85.23828859999999,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Angul,OCM,OCM-479320;OCM-479321,Thunder Plus Charging Station,,20.8317352,85.2416586,1.0,15.0,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Dhenkanal,OCM,OCM-479322,Jio-bp,,20.8014756,85.5434702,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Dhenkanal,OCM,OCM-479323,Ather Grid Charging Station,,20.669519899999997,85.5922933,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:07:00Z
+Odisha,Jajpur,OCM,OCM-479324,BPCL Charging Station,,20.656229,86.112809,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479325,Ampere EV by Greaves - Green Wheels,,20.694237899999997,86.1328793,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479326,Electric Vehicle Charging Station,,20.6581671,86.11731379999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479327,Jio-bp pulse Charging Station,,20.752399,86.150857,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479328,Ather Grid Charging Station,,20.703937099999997,86.1341964,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479329,Hindustan Petroleum Corporation Limited,,20.838154,86.30842299999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479340,Tata Power Charging Station,,20.9502562,85.989753,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479341,Electric Vehicle Charging Station,,20.986724199999998,85.98919599999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479342,Tata Power Charging Station,,20.918958699999997,86.2169684,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Jajpur,OCM,OCM-479343,Ather Grid Charging Station,,20.9362048,86.1646624,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:08:00Z
+Odisha,Bhadrak,OCM,OCM-479344,Ather Grid Charging Station,,21.104305,86.532646,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:09:00Z
+Odisha,Bhadrak,OCM,OCM-479345,Tata Power Charging Station,,21.069810000000004,86.496256,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:09:00Z
+Odisha,Bhadrak,OCM,OCM-479346,Jio-bp pulse Charging Station,,20.9758779,86.4012231,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:09:00Z
+Odisha,Bhadrak,OCM,OCM-479347,Jio-bp pulse Charging Station,,21.070288100000003,86.4970845,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:09:00Z
+Odisha,Bhadrak,OCM,OCM-479348,Ather Grid Charging Station,,21.071771,86.49831999999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:09:00Z
+Odisha,Bhadrak,OCM,OCM-479349,Bolt.Earth,,21.0984032,86.52668419999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:09:00Z
+Odisha,Bargarh,OCM,OCM-479375,BPCL Charging Station,,21.314738,83.30917099999999,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:10:00Z
+Odisha,Bargarh,OCM,OCM-479376,BPCL Charging Station,,21.312703799999998,83.3128902,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:10:00Z
+Odisha,Bargarh,OCM,OCM-479377,BPCL Charging Station,,21.314256999999998,83.45897819999999,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:10:00Z
+Odisha,Bargarh,OCM,OCM-479378,BPCL Charging Station,,21.3652959,83.7440391,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:10:00Z
+Odisha,Kendujhar,OCM,OCM-479379,Ather Grid Charging Station,,21.200249,86.12389,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:10:00Z
+Odisha,Kendujhar,OCM,OCM-479380,Electric Vehicle Charging Station,,21.2216615,86.1190697,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:10:00Z
+Odisha,Baleshwar,OCM,OCM-479381,BPCL Charging Station,,21.358081,86.78445099999999,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:10:00Z
+Odisha,Baleshwar,OCM,OCM-479382,BPCL Charging Station,,21.3825286,86.79633,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:10:00Z
+Odisha,Baleshwar,OCM,OCM-479383,Electric Vehicle Charging Station,,21.2845369,86.67497949999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Baleshwar,OCM,OCM-479384,Jio-bp pulse Charging Station,,21.317263999999998,86.725105,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Sambalpur,OCM,OCM-479392,BPCL Charging Station,,21.494135,83.98228999999999,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Sambalpur,OCM,OCM-479393,Tata Power Charging Station,,21.501024899999997,83.89131309999999,4.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Sambalpur,OCM,OCM-479394,Ather Charging Station,,21.49525,83.97572,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Sambalpur,OCM,OCM-479395,Tata Power Charging Station,,21.5106163,84.00592019999999,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Sambalpur,OCM,OCM-479396,Ather Grid Charging Station,,21.467634,83.97726399999999,2.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Sambalpur,OCM,OCM-479397,Ather Grid Charging Station,,21.491887,83.9860082,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Kendujhar,OCM,OCM-479398,Ather Charging Station,,21.651429999999998,85.59394999999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Kendujhar,OCM,OCM-479399,Electric Vehicle Charging Station,,21.5490869,85.49427089999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Kendujhar,OCM,OCM-479400,Ather Grid Charging Station,,21.6324613,85.5907884,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Kendujhar,OCM,OCM-479401,Tata Power Charging Station,,21.548809,85.494006,1.0,7.400000095367432,light,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Baleshwar,OCM,OCM-479402,Tata Power Charging Station,,21.4978274,86.8896469,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Baleshwar,OCM,OCM-479403,Ather Charging Station,,21.5064591,86.911091,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:11:00Z
+Odisha,Baleshwar,OCM,OCM-479404,Tata Power Charging Station,,21.479922,86.904904,1.0,30.0,DC,False,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Baleshwar,OCM,OCM-479405,Electric Vehicle Charging Station,,21.5746535,87.09849589999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Baleshwar,OCM,OCM-479406,Ather Charging Station,,21.49872,86.93108,2.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Baleshwar,OCM,OCM-479407,Ather Grid Charging Station,,21.481623,86.9069,3.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Baleshwar,OCM,OCM-479408,Electric Vehicle Charging Station,,21.593016600000002,87.02072849999999,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Baleshwar,OCM,OCM-479409,Jio-bp pulse Charging Station,,21.5926108,87.0205579,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Baleshwar,OCM,OCM-479410,Jio-bp pulse Charging Station,,21.592751,87.02058799999999,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Jharsuguda,OCM,OCM-479419,Tata Power Charging Station,,21.86703,83.966208,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Jharsuguda,OCM,OCM-479420,Ather Grid Charging Station,,21.852719999999998,83.99909,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Mayurbhanj,OCM,OCM-479421,Electric Vehicle Charging Station,,21.8057616,85.9951672,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Mayurbhanj,OCM,OCM-479422,Ather Grid Charging Station,,21.909101,86.751335,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Mayurbhanj,OCM,OCM-479423,WARIVO ELECTRIC SCOOTER SHOWROOM -PREMJIT MOTORS BARIPADA,,21.9265285,86.7319555,1.0,,light,True,False,Public - Pay At Location,2026-02-28T08:12:00Z
+Odisha,Mayurbhanj,OCM,OCM-479424,Ather Grid Charging Station,,21.940046,86.74460599999999,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Mayurbhanj,OCM,OCM-479425,Tata Power Charging Station,,21.762953,87.010724,1.0,3.299999952316284,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Sundargarh,OCM,OCM-479426,Ather Grid Charging Station,,22.105083,84.03789499999999,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Sundargarh,OCM,OCM-479427,Jio-bp,,22.1100379,83.99531890000002,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Sundargarh,OCM,OCM-479428,Ather charging station,,22.1040381,84.0375432,1.0,1.1,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Sundargarh,OCM,OCM-479429,Ather Charging Station,,22.2278125,84.81838739999999,2.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Sundargarh,OCM,OCM-479430,Tata Power Charging Station,,22.2268099,84.79603639999999,1.0,25.0,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Sundargarh,OCM,OCM-479431,Ather Grid Charging Station,,22.226704599999998,84.8641165,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Sundargarh,OCM,OCM-479432,Ather Grid Charging Station,,22.23666,84.77015,1.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Sundargarh,OCM,OCM-479433,Ather Grid Charging Station,,22.243665999999997,84.827354,3.0,1.100000023841858,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Odisha,Kendujhar,OCM,OCM-479434,Jio-bp,,22.0015401,85.3279801,1.0,7.4,light,False,False,Public - Pay At Location,2026-02-28T08:13:00Z
+Karnataka,Tumakuru,OCM,OCM-481499,Sri Kamadenu Veg Restaurant,Tata Power,13.61215890500984,76.95345953343492,1.0,30.0,DC,False,False,Public,2026-04-08T16:32:00Z
+Karnataka,Chitradurga,OCM,OCM-481500,Paakashala @ Chitradurga,Zeon Charging,14.248879279136355,76.42599146668157,1.0,100.0,DC,False,False,Public,2026-04-08T16:40:00Z
+Karnataka,Dharwad,OCM,OCM-481501,Hotel Punjab Junction,Tata Power,15.184936484038705,75.13612460192677,1.0,30.0,DC,False,False,Public,2026-04-08T16:48:00Z
+Karnataka,Dharwad,OCM,OCM-481502,Manickbag Automobiles,Tata Power,15.369551854899184,75.11909436764411,1.0,25.0,light,False,False,Public,2026-04-08T16:52:00Z
+Karnataka,Dharwad,OCM,OCM-481503,Big Mishra Pedha Hubli-Dharwad Highway,Chargezone (India),15.394478733061298,75.00854070119784,1.0,60.0,DC,False,False,Public,2026-04-08T16:56:00Z
+Karnataka,Dharwad,OCM,OCM-481504,Bellad Hyundai,Chargezone (India),15.463065888347815,74.9774624557773,1.0,30.0,DC,False,False,Public,2026-04-08T16:59:00Z
+Karnataka,Belagavi,OCM,OCM-481505,Regenta Resort Belagavi,Zeon Charging,15.752744488741397,74.41115324455757,1.0,30.0,DC,False,False,Public,2026-04-08T17:04:00Z
+Karnataka,Belagavi,OCM,OCM-481506,Hotel Udupi Grand,Chargezone (India),16.395447585615557,74.37336389990233,1.0,30.0,DC,False,False,Public,2026-04-08T17:09:00Z
+Karnataka,Dharwad,OCM,OCM-484922,Highway Tadka,Charge_iN by Mahindra,15.439496981650441,74.88361551536256,2.0,180.0,DC,False,False,Public,2026-04-09T12:04:00Z
+Karnataka,Tumakuru,OCM,OCM-485107,Hotel Nanjundeshwara,Charge_iN by Mahindra,13.285618008016613,77.1827495915004,2.0,180.0,DC,False,False,Public,2026-04-10T14:13:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-485444,Shakthi Charging Station,Tata Power,12.878980660652477,75.04671422477765,1.0,30.0,DC,False,False,Public,2026-04-13T16:00:00Z
+Karnataka,Hassan,OCM,OCM-485466,Srinivasa Residency,Tata Power,12.945135145283535,75.79442761903636,1.0,30.0,DC,False,False,Public,2026-04-13T16:06:00Z
+Karnataka,Dakshina Kannada,OCM,OCM-485770,Hotel Shri Durga,Statiq (IN),12.824969442096815,75.17543659776558,1.0,30.0,DC,False,False,Public,2026-04-16T15:31:00Z
+Odisha,Ganjam,OSM,OSM-node-13506982427;OCM-479124;OCM-479214,Ather Grid Charging station,Ather energy,19.3242434,84.8749989,3.0,3.0,light,False,False,yes,
+Odisha,Khordha,OSM,OSM-node-13537485378,Ather Grid 6kW,Ather energy,20.2965484,85.8246467,6.0,6.0,light,False,False,yes,
+Karnataka,Vijayapura,OSM,OSM-node-5305546325,,KPTCL,16.8129246,75.7157248,1.0,,light,True,True,(Unknown),
+Karnataka,Yadgir,OSM,OSM-node-6128146875,,,16.8075405,77.1444785,1.0,,light,True,True,(Unknown),
+Karnataka,Kalaburagi,OSM,OSM-node-6128170285,,,16.8860925,76.9843397,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OCM,OCM-103616;OSM-node-9202909866,Ather Space,(Unknown Operator),12.9756892941475,77.6412298094218,4.0,3.0,light,False,False,Public,2018-05-04T08:50:00Z
+Karnataka,Bengaluru Urban,OSM,OSM-node-9527967749,,,13.0415766,77.6204588,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-9796873472,,BESCOM,12.9947371,77.6993007,2.0,,light,True,False,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-9811396097,,,12.9775829,77.6389895,1.0,,light,True,True,yes,
+Karnataka,Bengaluru Urban,OSM,OSM-node-9917415768;OSM-node-9917415769,,,12.9733967,77.6357561,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-10177662896,,,12.9137732,77.6441735,1.0,,light,True,False,(Unknown),
+Karnataka,Bengaluru North,OSM,OSM-node-10178076779,,,13.1973512,77.7076171,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-10293872605,inGO,,12.9712776,77.6078832,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-10294506356,,Yulu,12.9764825,77.6268299,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-10763275239,Magenta ChargeGrid Charging Station,Magenta Group,12.9154635,77.6158909,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-11178123519,,Ather,12.9576825,77.5684466,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-11283405698,Ola Hypercharger,,12.9322172,77.6142725,4.0,,light,True,False,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-11286212936,,BESCOM,12.916907,77.6102709,2.0,,light,True,False,yes,
+Karnataka,Bengaluru Urban,OSM,OSM-node-11297781805,,Hero Vida,12.9710109,77.597788,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-11542817290,,,12.9362684,77.6076884,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-11818587530,GLIDA Charging Station,,13.1831411,77.6760596,15.0,,light,True,False,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-11818587531,BluSmart Charging Station,,13.1821565,77.6710546,24.0,,light,True,False,(Unknown),
+Karnataka,Belagavi,OCM,OCM-308992;OSM-node-11854233582,Gogte Plaza,Tata Power,15.928451456254336,74.52903791342621,1.0,60.0,DC,False,False,Public,2025-02-19T17:00:00Z
+Karnataka,Uttara Kannada,OCM,OCM-308978;OSM-node-11864351274,"TSS Super Market, Sirsi",Tata Power,14.624314302978263,74.84155546196445,1.0,30.0,DC,False,False,Public,2025-02-19T14:59:00Z
+Karnataka,Bengaluru Urban,OSM,OSM-node-11927677057,Ola Hyper Charger,ChargePoint,12.9337755,77.6236693,2.0,,light,True,False,yes,
+Karnataka,Bengaluru Urban,OSM,OSM-node-11927677058,Battery Swap,ChargePoint,12.9285835,77.6241904,1.0,,light,True,True,yes,
+Karnataka,Bengaluru Urban,OSM,OSM-node-11936564076,Ather Charging Station,ChargePoint,12.9311453,77.6238461,1.0,,light,True,True,yes,
+Karnataka,Bengaluru Urban,OSM,OSM-node-11987023859,BluSmart Charging Station,,13.1776646,77.6630831,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-12002046035,,,12.977855,77.5812757,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-12016136802,,,13.027001,77.5425776,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-12078138004,,,12.9810756,77.5966804,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-12101733050,,Ola Hypercharger,12.965406,77.6002473,1.0,,light,True,True,yes,
+Karnataka,Bengaluru Urban,OSM,OSM-node-12169023077,Battery Swapping Station,,12.8894274,77.5563647,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OCM,OCM-308893;OSM-node-12432219066,Shell Recharge Mahadeva Kodigehalli,Shell Recharge (IN),13.15446,77.70277,1.0,30.0,DC,False,False,Public,2025-02-16T18:09:00Z
+Karnataka,Bengaluru Urban,OSM,OSM-node-12534145133,Honda e:swap,,12.993427,77.7043141,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-12534184756,Honda e:swap,,12.993427,77.7043141,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-12982255490,,êpump,12.9421168,77.7471967,1.0,,light,True,False,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-13198115513,,,13.1778318,77.6637027,1.0,,light,True,True,(Unknown),
+Karnataka,Mandya,OSM,OSM-node-13238855163,,Glida,12.9662557,76.7885149,1.0,,DC,True,True,yes,
+Karnataka,Bengaluru Urban,OSM,OSM-node-13289292621,,,13.1824621,77.6738012,2.0,,light,True,False,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-13289292622,,,13.1842301,77.6808688,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-13566426890,,Sun Mobility,13.0001758,77.6869647,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru South,OSM,OSM-node-13625197611,,,12.765215,77.3303554,1.0,,light,True,True,(Unknown),
+Karnataka,Vijayapura,OSM,OSM-node-14081555701,Jio BP Pulse,,16.9357078,75.7391642,1.0,,light,True,True,(Unknown),
+Karnataka,Vijayanagara,OSM,OSM-node-14107361746,,,15.283211,76.3868679,1.0,,light,True,True,(Unknown),
+Karnataka,Dharwad,OSM,OSM-node-14114661618,,,15.3626357,75.2130756,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-node-14159740576,Ather Fast Charger,,12.8316517,77.703681,1.0,,light,True,True,(Unknown),
+Karnataka,Bengaluru Urban,OCM,OCM-309317;OSM-way-1334165085,"Jio-BP Pulse Hub, Marathalli",JIO BP Pulse (India),12.95179,77.70207,1.0,60.0,DC,False,False,Public,2025-03-06T17:35:00Z
+Karnataka,Bengaluru Urban,OSM,OSM-way-1353053241,Jio BP,,13.0878799,77.6601841,1.0,,light,True,True,(Unknown),
+Karnataka,Dakshina Kannada,OSM,OSM-way-1362820338,Urja Charging Station,,13.0089749,74.7937015,5.0,,light,True,False,(Unknown),
+Karnataka,Bengaluru Urban,OSM,OSM-way-1453071780,,BESCOM,13.1831753,77.6792437,1.0,,light,True,True,(Unknown),

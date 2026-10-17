@@ -1,0 +1,39 @@
+{
+    "DateLastVerified": "2026-02-25T11:48:00Z",
+    "ID": 313496,
+    "UUID": "EDB5B8C9-1E34-450C-9A76-595A50D52D82",
+    "DataProviderID": 1,
+    "OperatorID": 3780,
+    "UsageTypeID": 4,
+    "UsageCost": "18.0/kWh",
+    "AddressInfo": {
+        "ID": 313885,
+        "Title": "Athirampuzha",
+        "AddressLine1": "MC Road",
+        "AddressLine2": "Athirampuzha",
+        "Town": "Kottayam",
+        "StateOrProvince": "Kerala",
+        "Postcode": "686631",
+        "CountryID": 106,
+        "Latitude": 9.661688305606717,
+        "Longitude": 76.55113745755165,
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 603752,
+            "ConnectionTypeID": 33,
+            "StatusTypeID": 50,
+            "LevelID": 3,
+            "PowerKW": 60,
+            "CurrentTypeID": 30,
+            "Quantity": 2,
+            "Comments": "Power Shared"
+        }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2026-02-25T11:48:00Z",
+    "DateCreated": "2025-06-10T11:23:00Z",
+    "SubmissionStatusTypeID": 200
+}

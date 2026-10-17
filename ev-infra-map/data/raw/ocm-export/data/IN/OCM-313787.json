@@ -1,0 +1,38 @@
+{
+    "DateLastVerified": "2026-02-25T16:53:00Z",
+    "ID": 313787,
+    "UUID": "293A4198-4BA0-4141-B200-FBBFC575885B",
+    "DataProviderID": 1,
+    "OperatorID": 3875,
+    "UsageTypeID": 4,
+    "UsageCost": "22.48/kWh",
+    "AddressInfo": {
+        "ID": 314176,
+        "Title": "Environ EVCS",
+        "AddressLine1": "Thrissur Kunnamkuklam Road",
+        "Town": "Changaramkulam",
+        "StateOrProvince": "Kerala",
+        "Postcode": "679591",
+        "CountryID": 106,
+        "Latitude": 10.739569428832311,
+        "Longitude": 76.02927251363656,
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 604306,
+            "ConnectionTypeID": 33,
+            "StatusTypeID": 50,
+            "LevelID": 3,
+            "PowerKW": 80,
+            "CurrentTypeID": 30,
+            "Quantity": 2
+        }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "Variable rate based on time of the day",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2026-02-25T16:53:00Z",
+    "DateCreated": "2025-06-14T07:53:00Z",
+    "SubmissionStatusTypeID": 200
+}

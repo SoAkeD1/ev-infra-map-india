@@ -1,0 +1,25 @@
+flowchart TB
+  SRC["Public sources<br/>VAHAN · OCM · OSM · MHI · WorldPop"]
+  SCHED["Scheduler<br/>cron / GitHub Actions"]
+  ETL["Compute: ETL jobs (Python)<br/>pandas · geopandas · h3 · rasterio"]
+  RAW[("Data: raw snapshots<br/>versioned files")]
+  PG[("Data: PostgreSQL + PostGIS<br/>processed tables, H3 cells")]
+  MOD["Compute: models<br/>Holt forecast · Gap Index · charger need"]
+  OPT["Compute: optimizer<br/>PuLP + CBC · greedy fallback"]
+  API["Serving: FastAPI<br/>REST + GeoJSON"]
+  UI["Serving: React + Leaflet dashboard<br/>(Streamlit fallback)"]
+  HOST["Scale-up: cloud / NIC hosting<br/>live OCPI and VAHAN feeds"]
+  SRC --> ETL
+  SCHED -.-> ETL
+  ETL --> RAW
+  ETL --> PG
+  PG <--> MOD
+  PG <--> OPT
+  PG --> API --> UI
+  UI -.-> HOST
+  classDef r2 fill:#dbe9f6,stroke:#1f4e79,color:#111;
+  classDef src fill:#eeeeee,stroke:#555,color:#111;
+  classDef fut fill:#ffffff,stroke:#777,stroke-dasharray:5 4,color:#444;
+  class ETL,RAW,PG,MOD,OPT,API,UI r2;
+  class SRC src;
+  class SCHED,HOST fut;

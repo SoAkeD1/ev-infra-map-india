@@ -1,0 +1,21 @@
+flowchart TB
+  subgraph SRC[" Data sources (public / open) "]
+    direction LR
+    V["VAHAN 4<br/>RTO x class x FY"] ~~~ O["OpenChargeMap<br/>+ OSM chargers"] ~~~ M["MHI / Parliament<br/>official counts"] ~~~ G["OSM roads, NH,<br/>substations"] ~~~ W["WorldPop, GHSL,<br/>VIIRS"] ~~~ B["District polygons<br/>+ LGD codes"]
+  end
+  subgraph R1[" Prepare and assess "]
+    direction LR
+    I["1 Ingest +<br/>snapshot ID"] --> C["2 Clean, dedupe,<br/>light / DC class"] --> J["3 Spatial join<br/>H3 + LGD"] --> F["4 Features<br/>EVs, points, access"] --> GI["5 Charging<br/>Gap Index"]
+  end
+  subgraph R2[" Estimate and plan "]
+    direction LR
+    FC["6 Forecast<br/>Low / Base / High"] --> N["7 Charger need<br/>DC = max(energy, corridor)"] --> S["8 Siting<br/>MCLP"] --> VAL["9 Validation"] --> API["10 API +<br/>dashboard"]
+  end
+  OUT["Outputs: GIS map · dashboard · CSV / GeoJSON · methodology report"]
+  SRC --> R1 --> R2 --> OUT
+  classDef src fill:#eeeeee,stroke:#555,color:#111;
+  classDef stage fill:#dbe9f6,stroke:#1f4e79,color:#111;
+  classDef out fill:#fde9d9,stroke:#b45f06,color:#111;
+  class V,O,M,G,W,B src;
+  class I,C,J,F,GI,FC,N,S,VAL,API stage;
+  class OUT out;

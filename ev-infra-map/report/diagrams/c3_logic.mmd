@@ -1,0 +1,26 @@
+flowchart TB
+  subgraph GAP[" Charging Gap Index: today "]
+    direction TB
+    L["Load = ln(1 + EVs / charge points)"] --> GI["Gap Index (0-100) =<br/>0.40 Load + 0.35 Access + 0.25 Momentum"]
+    A["Access = % population > 5 km<br/>from a public charger"] --> GI
+    MO["Momentum = FY24-26<br/>registration CAGR"] --> GI
+  end
+  subgraph NEED[" Charger requirement: FY 2029-30 "]
+    direction TB
+    E["Public kWh/day = EV stock x km/day<br/>x Wh/km x public share"] --> NL["Light points =<br/>E_light / (7.4 kW x 6 h)"]
+    E --> ND1["DC (energy) =<br/>E_DC / (60 kW x 4 h)"]
+    ND2["DC (corridor) =<br/>ceil(NH km / 20) x 2 sides"] --> ND["DC need = max(energy, corridor)"]
+    ND1 --> ND
+    NL --> GP["Gap = need - existing (scaled)"]
+    ND --> GP
+  end
+  SITE["MCLP siting: best N sites within budget,<br/>weighted by gap, grid-aware"]
+  GAP ~~~ NEED
+  GAP --> SITE
+  NEED --> SITE
+  classDef g fill:#dbe9f6,stroke:#1f4e79,color:#111;
+  classDef k fill:#fde9d9,stroke:#b45f06,color:#111;
+  classDef s fill:#eeeeee,stroke:#555,color:#111;
+  class L,A,MO,GI g;
+  class E,NL,ND1,ND2,ND,GP k;
+  class SITE s;

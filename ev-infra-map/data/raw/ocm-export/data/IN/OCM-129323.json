@@ -1,0 +1,59 @@
+{
+    "MediaItems": [
+        {
+            "ID": 18938,
+            "ChargePointID": 129323,
+            "ItemURL": "https://media.openchargemap.io/images/IN/OCM129323/OCM-129323.orig.2019071711151940.jpg",
+            "ItemThumbnailURL": "https://media.openchargemap.io/images/IN/OCM129323/OCM-129323.thmb.2019071711151940.jpg",
+            "Comment": "",
+            "IsEnabled": true,
+            "IsVideo": false,
+            "IsFeaturedItem": false,
+            "IsExternalResource": false,
+            "User": {
+                "ID": 21625,
+                "Username": "Midgard Electric"
+            },
+            "DateCreated": "2019-07-17T11:16:00Z"
+        }
+    ],
+    "DateLastVerified": "2023-05-05T17:17:00Z",
+    "ID": 129323,
+    "UUID": "B09CC7CA-7001-4AA8-9F98-9849E044D25D",
+    "DataProviderID": 1,
+    "OperatorID": 3363,
+    "UsageTypeID": 3,
+    "AddressInfo": {
+        "ID": 129669,
+        "Title": "Kailash Bhavan",
+        "AddressLine1": "Kailash Bhavan",
+        "AddressLine2": "Amritapuri",
+        "Town": "Clappana",
+        "StateOrProvince": "Kerala",
+        "Postcode": "690525",
+        "CountryID": 106,
+        "Latitude": 9.08818839762424,
+        "Longitude": 76.485887744861,
+        "ContactEmail": "info.midgardelectric@gmail.com",
+        "RelatedURL": "https://www.midgardelectric.com/",
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 180994,
+            "ConnectionTypeID": 16,
+            "StatusTypeID": 50,
+            "LevelID": 2,
+            "Amps": 16,
+            "Voltage": 240,
+            "PowerKW": 3.3,
+            "CurrentTypeID": 10,
+            "Quantity": 3
+        }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2023-05-05T17:17:00Z",
+    "DateCreated": "2019-07-17T11:08:00Z",
+    "SubmissionStatusTypeID": 200
+}

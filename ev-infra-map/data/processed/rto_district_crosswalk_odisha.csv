@@ -1,0 +1,40 @@
+rto_name,rto_code,district,share,is_assumed,note
+ARTO BADABIL,OD901,Kendujhar,1,0,ARTO Barbil (Badabil) in Kendujhar district
+ARTO KHORDHA,OD201,Khordha,1,0,
+ARTO RAIRANGPUR,OD111,Mayurbhanj,1,0,ARTO Rairangpur in Mayurbhanj district
+RTO ANUGOLA,OD19,Angul,1,0,
+RTO BALANGIR,OD3,Balangir,1,0,
+RTO BALESHWAR,OD1,Baleshwar,1,0,
+RTO BARAGADA,OD17,Bargarh,1,0,
+RTO BHADRAK,OD22,Bhadrak,1,0,
+RTO BHANJANAGAR,OD32,Ganjam,1,0,Bhanjanagar RTO in Ganjam district
+RTO BHUBANESWAR,OD2,Khordha,1,0,
+RTO BHUBANESWAR-II,OD33,Khordha,1,0,
+RTO BOUDH,OD27,Boudh,1,0,
+RTO CHANDIKHOLE,OD4,Jajpur,1,1,Chandikhole RTO sits in Jajpur district; jurisdiction may extend to neighbouring blocks - verify
+RTO DEBAGADA,OD28,Debagarh,1,0,
+RTO DHENKANAL,OD6,Dhenkanal,1,0,
+RTO GAJAPATI,OD20,Gajapati,1,0,
+RTO GANJAM,OD7,Ganjam,1,0,Berhampur
+RTO JAGATSINGHPUR,OD21,Jagatsinghapur,1,0,
+RTO JAJPUR,OD34,Jajpur,1,0,
+RTO JHARSUGUDA,OD23,Jharsuguda,1,0,
+RTO KALAHANDI,OD8,Kalahandi,1,0,
+RTO KANDHAMALA,OD12,Kandhamal,1,0,
+RTO KATAKA,OD5,Cuttack,1,0,
+RTO KENDRAPADA,OD29,Kendrapara,1,0,
+RTO KENDUJHAR,OD9,Kendujhar,1,0,
+RTO KORAPUT,OD10,Koraput,1,0,
+RTO MALKANGIRI,OD30,Malkangiri,1,0,
+RTO MAYURBHANJ,OD11,Mayurbhanj,1,0,
+RTO NABARANGPUR,OD24,Nabarangapur,1,0,
+RTO NAYAGADA,OD25,Nayagarh,1,0,
+RTO NUAPADA,OD26,Nuapada,1,0,
+RTO PURI,OD13,Puri,1,0,
+RTO RAURKELA,OD14,Sundargarh,1,0,Rourkela RTO in Sundargarh district
+RTO RAYAGADA,OD18,Rayagada,1,0,
+RTO SAMBALPUR,OD15,Sambalpur,1,0,
+RTO SUBARNAPUR,OD31,Subarnapur,1,0,
+RTO SUNDARAGADA,OD16,Sundargarh,1,0,
+RTO TALACHER,OD35,Angul,1,0,Talcher RTO in Angul district
+STATE TRANSPORT AUTHORITY,OD99,ALL,0,1,State-level office; allocated to districts by their share of RTO-registered EVs

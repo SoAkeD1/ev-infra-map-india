@@ -1,0 +1,37 @@
+{
+    "DateLastVerified": "2025-04-07T13:39:00Z",
+    "ID": 297622,
+    "UUID": "4FF2EBE1-B0BC-4BE7-B9F1-688D92DB86E2",
+    "DataProviderID": 1,
+    "OperatorID": 3539,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+        "ID": 298009,
+        "Title": "Regency Tirunelveli By GRT Hotels",
+        "AddressLine1": "10 A, 1 B, Trivandrum Road",
+        "AddressLine2": "Vannarpettai",
+        "Town": "Tirunelveli",
+        "StateOrProvince": "Tamil Nadu",
+        "Postcode": "627003",
+        "CountryID": 106,
+        "Latitude": 8.72921,
+        "Longitude": 77.72092,
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 539757,
+            "ConnectionTypeID": 33,
+            "StatusTypeID": 50,
+            "LevelID": 3,
+            "PowerKW": 50,
+            "CurrentTypeID": 30,
+            "Quantity": 1
+        }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2025-04-07T13:39:00Z",
+    "DateCreated": "2024-04-17T15:08:00Z",
+    "SubmissionStatusTypeID": 200
+}

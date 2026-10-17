@@ -1,0 +1,24 @@
+<!doctype html><html><head><meta charset="utf-8"><style>body{font-family:Arial;background:#fff}</style></head><body><div id="out"></div>
+<script type="module">
+import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.esm.min.mjs";
+mermaid.initialize({startOnLoad:false, theme:'base', securityLevel:'loose', flowchart:{htmlLabels:true, curve:'basis', padding:12, nodeSpacing:30, rankSpacing:40},
+  themeVariables:{fontFamily:'Arial, Helvetica, sans-serif', fontSize:'15px', primaryColor:'#dbe9f6', primaryBorderColor:'#1f4e79', primaryTextColor:'#111', lineColor:'#333', clusterBkg:'#fafafa', clusterBorder:'#999', edgeLabelBackground:'#fff'}});
+window.log=[];
+for (const n of ['c1_pipeline','c2_architecture','c3_logic','c4_journeys']){
+  try{
+    const txt=await (await fetch('diagrams/'+n+'.mmd')).text();
+    const {svg}=await mermaid.render(n, txt);
+    const div=document.createElement('div'); div.innerHTML=svg; document.getElementById('out').appendChild(div);
+    const el=div.querySelector('svg'); const bb=el.viewBox.baseVal; const W=bb.width, H=bb.height;
+    el.setAttribute('width',W); el.setAttribute('height',H);
+    const xml=new XMLSerializer().serializeToString(el);
+    const img=new Image(); img.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(xml);
+    await img.decode();
+    const s=4, c=document.createElement('canvas'); c.width=W*s; c.height=H*s; const ctx=c.getContext('2d');
+    ctx.fillStyle='#fff'; ctx.fillRect(0,0,c.width,c.height); ctx.scale(s,s); ctx.drawImage(img,0,0,W,H);
+    const r=await fetch('/save/'+n+'.png',{method:'POST',body:c.toDataURL('image/png')});
+    log.push(n+' '+Math.round(W)+'x'+Math.round(H)+' '+r.status);
+  }catch(e){log.push(n+' ERR '+e.message)}
+}
+window.done=true;
+</script></body></html>

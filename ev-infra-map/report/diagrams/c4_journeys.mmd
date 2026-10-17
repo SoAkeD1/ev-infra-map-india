@@ -1,0 +1,20 @@
+flowchart LR
+  subgraph MHI[" MHI / BEE: national allocation "]
+    direction TB
+    m1["1. National view:<br/>states ranked by Gap Index"] --> m2["2. Switch scenario<br/>Low / Base / High"] --> m3["3. Compare FY30 need<br/>with PM E-DRIVE allocation"] --> m4["4. Export state table<br/>for allocation note"]
+  end
+  subgraph ST[" State planner: district plan "]
+    direction TB
+    s1["1. Select state:<br/>district map"] --> s2["2. Open district: EVs per<br/>point, access, growth"] --> s3["3. Run siting with<br/>budget N (e.g. 170 PCS)"] --> s4["4. Download ranked<br/>sites (CSV / GeoJSON)"]
+  end
+  subgraph DC[" DISCOM: grid readiness "]
+    direction TB
+    d1["1. Layer: recommended<br/>sites + substations"] --> d2["2. Flag sites far<br/>from a substation"] --> d3["3. View kW added<br/>per substation area"] --> d4["4. Export load list for<br/>connection planning"]
+  end
+  MHI ~~~ ST ~~~ DC
+  classDef a fill:#dbe9f6,stroke:#1f4e79,color:#111;
+  classDef b fill:#fde9d9,stroke:#b45f06,color:#111;
+  classDef c fill:#eeeeee,stroke:#555,color:#111;
+  class m1,m2,m3,m4 a;
+  class s1,s2,s3,s4 b;
+  class d1,d2,d3,d4 c;

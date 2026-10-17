@@ -1,0 +1,90 @@
+{
+    "UserComments": [
+        {
+            "ID": 19993,
+            "ChargePointID": 107668,
+            "CommentTypeID": 10,
+            "UserName": "vdprao",
+            "Comment": "Charged my E2O car",
+            "Rating": 5,
+            "DateCreated": "2018-08-06T10:54:20.593Z",
+            "User": {
+                "ID": 18790,
+                "Username": "vdprao"
+            },
+            "CheckinStatusTypeID": 10
+        }
+    ],
+    "MediaItems": [
+        {
+            "ID": 16168,
+            "ChargePointID": 107668,
+            "ItemURL": "https://media.openchargemap.io/images/IN/OCM107668/OCM-107668.orig.2018080610531438.jpeg",
+            "ItemThumbnailURL": "https://media.openchargemap.io/images/IN/OCM107668/OCM-107668.thmb.2018080610531438.jpeg",
+            "Comment": "1 connector + 1 generic 3-pin plug",
+            "IsEnabled": true,
+            "IsVideo": false,
+            "IsFeaturedItem": false,
+            "IsExternalResource": false,
+            "User": {
+                "ID": 18790,
+                "Username": "vdprao"
+            },
+            "DateCreated": "2018-08-06T10:53:00Z"
+        },
+        {
+            "ID": 16167,
+            "ChargePointID": 107668,
+            "ItemURL": "https://media.openchargemap.io/images/IN/OCM107668/OCM-107668.orig.2018080610521051.jpeg",
+            "ItemThumbnailURL": "https://media.openchargemap.io/images/IN/OCM107668/OCM-107668.thmb.2018080610521051.jpeg",
+            "Comment": "View from the road side",
+            "IsEnabled": true,
+            "IsVideo": false,
+            "IsFeaturedItem": false,
+            "IsExternalResource": false,
+            "User": {
+                "ID": 18790,
+                "Username": "vdprao"
+            },
+            "DateCreated": "2018-08-06T10:52:00Z"
+        }
+    ],
+    "DateLastVerified": "2018-08-06T21:39:00Z",
+    "ID": 107668,
+    "UUID": "931DF86E-A0D0-4E04-9B98-F21AFC129A5A",
+    "DataProviderID": 1,
+    "UsageTypeID": 1,
+    "UsageCost": "0",
+    "AddressInfo": {
+        "ID": 108014,
+        "Title": "AtherGrid Go Native Cafe",
+        "AddressLine1": "Go Native Cafe",
+        "AddressLine2": "Jayanagar",
+        "Town": "Bangalore",
+        "StateOrProvince": "KA",
+        "Postcode": "560041",
+        "CountryID": 106,
+        "Latitude": 12.9224636436796,
+        "Longitude": 77.5846883396955,
+        "AccessComments": "In front of Go Native Cafe on the road",
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 152011,
+            "ConnectionTypeID": 0,
+            "StatusTypeID": 50,
+            "LevelID": 1,
+            "Amps": 10,
+            "Voltage": 240,
+            "PowerKW": 2,
+            "CurrentTypeID": 10,
+            "Quantity": 1
+        }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2018-08-06T21:39:00Z",
+    "DateCreated": "2018-08-06T09:52:00Z",
+    "SubmissionStatusTypeID": 200
+}

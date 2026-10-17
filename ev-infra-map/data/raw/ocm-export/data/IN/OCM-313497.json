@@ -1,0 +1,48 @@
+{
+    "DateLastVerified": "2026-01-23T10:02:00Z",
+    "ID": 313497,
+    "UUID": "8B8BF59C-88F7-48EC-A508-2555837BD102",
+    "DataProviderID": 1,
+    "OperatorID": 3780,
+    "UsageTypeID": 4,
+    "UsageCost": "18.0/kWh",
+    "AddressInfo": {
+        "ID": 313886,
+        "Title": "GreenVeel - ChargeZone",
+        "AddressLine1": "Thodupuzha Bypass Road",
+        "AddressLine2": "Thodupuzha",
+        "Town": "Idukki",
+        "StateOrProvince": "Kerala",
+        "Postcode": "685584",
+        "CountryID": 106,
+        "Latitude": 9.892659539885386,
+        "Longitude": 76.71176413963099,
+        "DistanceUnit": 0
+    },
+    "Connections": [
+        {
+            "ID": 603754,
+            "ConnectionTypeID": 33,
+            "StatusTypeID": 50,
+            "LevelID": 3,
+            "PowerKW": 90,
+            "CurrentTypeID": 30,
+            "Quantity": 2,
+            "Comments": "Power Shared"
+        },
+        {
+            "ID": 603755,
+            "ConnectionTypeID": 33,
+            "StatusTypeID": 50,
+            "LevelID": 3,
+            "PowerKW": 30,
+            "CurrentTypeID": 30,
+            "Quantity": 1
+        }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2026-01-23T10:02:00Z",
+    "DateCreated": "2025-06-10T11:28:00Z",
+    "SubmissionStatusTypeID": 200
+}

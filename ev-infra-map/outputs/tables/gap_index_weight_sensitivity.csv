@@ -1,0 +1,14 @@
+variant,spearman_rho,top10_overlap,max_rank_change
+Base 40/35/25,1.0,10,0
+Equal 33/33/33,0.975,10,4
++10 pressure / -10 coverage_gap,0.951,8,6
++10 coverage_gap / -10 pressure,0.977,10,4
++10 pressure / -10 momentum,0.965,8,5
++10 momentum / -10 pressure,0.962,10,6
++10 coverage_gap / -10 momentum,0.972,9,6
++10 momentum / -10 coverage_gap,0.96,8,5
+PCA PC1 (0.46/0.40/0.13),0.968,9,6
+Leave out pressure,0.754,8,17
+Leave out coverage_gap,0.828,7,13
+Leave out momentum,0.882,7,8
+"Base, momentum capped at P95",1.0,10,0
